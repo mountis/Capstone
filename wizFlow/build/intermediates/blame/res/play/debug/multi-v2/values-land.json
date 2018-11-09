@@ -1,0 +1,89 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mount\\AndroidStudioProjects\\WizFlow\\wizFlow\\build\\intermediates\\incremental\\mergePlayDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mount\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.0.2.aar\\5253a94ec96973c2c4dbe7561bb3e76c\\res\\values-land\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "208,256,306,362,419",
+                        "endColumns": "46,48,54,55,54",
+                        "endOffsets": "250,300,356,413,469"
+                    },
+                    "to": {
+                        "startLines": "8,9,13,14,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "462,509,734,789,845",
+                        "endColumns": "46,48,54,55,54",
+                        "endOffsets": "504,553,784,840,895"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mount\\AndroidStudioProjects\\WizFlow\\wizFlow\\src\\main\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "18",
+                        "endColumns": "62",
+                        "endOffsets": "76"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "558",
+                        "endColumns": "62",
+                        "endOffsets": "616"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mount\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\bc222b263f4259eceebe8cbf360448cd\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,117,189,259,323,394",
+                        "endColumns": "61,71,69,63,70,67",
+                        "endOffsets": "112,184,254,318,389,457"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mount\\.gradle\\caches\\transforms-1\\files-1.1\\library-1.1.1.aar\\52a6a508c742e1ee261c9970821b6797\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "17,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "759,702",
+                        "endColumns": "56,55",
+                        "endOffsets": "811,753"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "621,678",
+                        "endColumns": "56,55",
+                        "endOffsets": "673,729"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mount\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.4.0.aar\\55576b89a5276928ed42de0ad7916afe\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "900",
+                        "endLines": "19",
+                        "endColumns": "12",
+                        "endOffsets": "1077"
+                    }
+                }
+            ]
+        }
+    ]
+}

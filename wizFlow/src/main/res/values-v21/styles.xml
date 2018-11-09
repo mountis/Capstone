@@ -1,0 +1,9 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="WizFlowFullscreenTheme.Notes">
+        <item name="android:statusBarColor">@color/statusbar_overlay</item>
+        <item name="android:windowTranslucentNavigation">@bool/transparent_nav</item>
+    </style>
+
+
+</resources>

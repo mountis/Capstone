@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mount\\AndroidStudioProjects\\WizFlow\\wizFlow\\build\\intermediates\\incremental\\mergePlayDebugResources\\merged.dir\\values-land-v19\\values-land-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mount\\AndroidStudioProjects\\WizFlow\\wizFlow\\src\\main\\res\\values-land-v19\\bools.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "83",
+                        "endOffsets": "184"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "81",
+                        "endOffsets": "177"
+                    }
+                }
+            ]
+        }
+    ]
+}

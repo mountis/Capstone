@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fitsSystemWindows="true">
+
+    <PreferenceCategory android:title="@string/settings_category_preferences">
+
+        <PreferenceScreen
+            android:key="settings_data"
+            android:title="@string/settings_screen_data" />
+
+        <PreferenceScreen
+            android:key="settings_interface"
+            android:title="@string/settings_screen_interface" />
+
+        <PreferenceScreen
+            android:key="settings_navigation"
+            android:title="@string/settings_screen_navigation" />
+
+        <PreferenceScreen
+            android:key="settings_behaviors"
+            android:title="@string/settings_screen_behaviors" />
+
+        <PreferenceScreen
+            android:key="settings_notifications"
+            android:title="@string/settings_screen_notifications" />
+
+        <PreferenceScreen
+            android:key="settings_privacy"
+            android:title="@string/settings_screen_privacy" />
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

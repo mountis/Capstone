@@ -1,0 +1,16 @@
+<developer.elkane.udacity.wizflow.models.views.InterceptorFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/gallery_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:contentDescription="gallery"
+    tools:context="developer.elkane.udacity.wizflow.GalleryActivity">
+
+    <it.feio.android.simplegallery.views.GalleryViewPager
+        android:id="@+id/fullscreen_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center" />
+
+</developer.elkane.udacity.wizflow.models.views.InterceptorFrameLayout>

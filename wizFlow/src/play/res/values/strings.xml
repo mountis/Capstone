@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">WizFlow</string>
+    <string name="app_package">developer.elkane.udacity.wizflow</string>
+    <string name="version_postfix" />
+
+</resources>

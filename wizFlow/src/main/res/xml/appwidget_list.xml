@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:configure="developer.elkane.udacity.wizflow.widget.WidgetConfigurationActivity"
+    android:initialLayout="@layout/widget_layout_list"
+    android:minWidth="180dp"
+    android:minHeight="110dp"
+    android:previewImage="@drawable/widget_list"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="300000"
+    android:widgetCategory="keyguard|home_screen">
+
+</appwidget-provider>

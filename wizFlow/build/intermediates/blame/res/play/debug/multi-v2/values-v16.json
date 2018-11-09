@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mount\\AndroidStudioProjects\\WizFlow\\wizFlow\\build\\intermediates\\incremental\\mergePlayDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mount\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.0.2.aar\\5253a94ec96973c2c4dbe7561bb3e76c\\res\\values-v16\\values.xml",
+                    "from": {
+                        "startLines": "6,10,14,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "208,430,563,682",
+                        "endLines": "6,12,16,20",
+                        "endColumns": "71,12,12,12",
+                        "endOffsets": "275,555,674,791"
+                    },
+                    "to": {
+                        "startLines": "2,3,6,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,127,255,369",
+                        "endLines": "2,5,8,11",
+                        "endColumns": "71,12,12,12",
+                        "endOffsets": "122,250,364,476"
+                    }
+                }
+            ]
+        }
+    ]
+}

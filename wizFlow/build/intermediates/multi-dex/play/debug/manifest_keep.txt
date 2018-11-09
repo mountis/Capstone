@@ -1,0 +1,3 @@
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\debug\AndroidManifest.xml:44
+-keep class developer.elkane.udacity.wizflow.WizFlow { <init>(...); }
+

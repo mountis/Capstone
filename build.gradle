@@ -1,0 +1,23 @@
+
+
+buildscript {
+    repositories {
+        jcenter()
+        google()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.1.2'
+    }
+}
+
+allprojects {
+    repositories {
+        mavenLocal()
+        jcenter()
+        maven {url "https://jitpack.io"}
+        maven {url "http://dl.bintray.com/tbruyelle/tbruyelle" }
+        google()
+    }
+}
+
+

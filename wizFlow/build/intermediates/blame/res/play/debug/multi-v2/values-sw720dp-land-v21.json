@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mount\\AndroidStudioProjects\\WizFlow\\wizFlow\\build\\intermediates\\incremental\\mergePlayDebugResources\\merged.dir\\values-sw720dp-land-v21\\values-sw720dp-land-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mount\\AndroidStudioProjects\\WizFlow\\wizFlow\\src\\main\\res\\values-sw720dp-land-v21\\dimens.xml",
+                    "from": {
+                        "startLines": "7,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "70,20",
+                        "endColumns": "58,48",
+                        "endOffsets": "124,64"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,48",
+                        "endOffsets": "109,158"
+                    }
+                }
+            ]
+        }
+    ]
+}
