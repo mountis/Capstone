@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mount\\AndroidStudioProjects\\WizFlow\\wizFlow\\build\\intermediates\\incremental\\mergePlayReleaseResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mount\\.gradle\\caches\\transforms-1\\files-1.1\\library-1.1.1.aar\\52a6a508c742e1ee261c9970821b6797\\res\\values-sw600dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "17,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "708,766",
+                        "endColumns": "56,55",
+                        "endOffsets": "760,817"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "552,609",
+                        "endColumns": "56,55",
+                        "endOffsets": "604,660"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mount\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.0.2.aar\\5253a94ec96973c2c4dbe7561bb3e76c\\res\\values-sw600dp-land\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "216,264,314,372,419,466,516,566,623",
+                        "endColumns": "46,48,56,45,45,48,48,55,46",
+                        "endOffsets": "258,308,366,413,460,510,560,617,665"
+                    },
+                    "to": {
+                        "startLines": "2,3,6,7,8,9,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,264,321,367,413,665,714,770",
+                        "endColumns": "46,48,56,45,45,48,48,55,46",
+                        "endOffsets": "97,146,316,362,408,457,709,765,812"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mount\\.gradle\\caches\\transforms-1\\files-1.1\\changelog-2.0.0.aar\\45a9f823954b1419b9a02d54740ac3a0\\res\\values-sw600dp-land\\values-sw600dp-land.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "229,285",
+                        "endColumns": "55,56",
+                        "endOffsets": "280,337"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "151,207",
+                        "endColumns": "55,56",
+                        "endOffsets": "202,259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mount\\AndroidStudioProjects\\WizFlow\\wizFlow\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "83",
+                        "endColumns": "89",
+                        "endOffsets": "168"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "462",
+                        "endColumns": "89",
+                        "endOffsets": "547"
+                    }
+                }
+            ]
+        }
+    ]
+}

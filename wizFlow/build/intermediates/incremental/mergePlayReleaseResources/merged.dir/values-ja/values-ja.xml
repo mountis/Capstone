@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="availability">
+    <item msgid="454869065893453189">"予定あり"</item>
+    <item msgid="6228387173725732140">"予定なし"</item>
+    <item msgid="2064426942462573474">"仮承諾"</item>
+  </string-array>
+    <string-array name="buttons_list">
+    <item msgid="5917946202321434335">"日"</item>
+    <item msgid="6248480754959562740">"週"</item>
+    <item msgid="4298472806133153766">"月"</item>
+    <item msgid="5033084974413793845">"予定リスト"</item>
+  </string-array>
+    <string-array name="change_response_labels">
+    <item msgid="3466644709343519437">"この予定のみ"</item>
+    <item msgid="140670561403965380">"繰り返す予定すべて"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels">
+    <item msgid="4208432367651646938">"この日の予定のみ"</item>
+    <item msgid="1536401639805370405">"これ以降の予定"</item>
+    <item msgid="7833229563617435430">"すべての予定"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+    <item msgid="1341910309321756150">"これ以降の予定"</item>
+    <item msgid="6315440193748139854">"すべての予定"</item>
+  </string-array>
+    <string-array name="ordinal_labels">
+    <item msgid="2693927956303125332">"第1"</item>
+    <item msgid="5631923029483854900">"第2"</item>
+    <item msgid="148935502975250973">"第3"</item>
+    <item msgid="5124200797326669172">"第4"</item>
+    <item msgid="7564374178324652137">"最終"</item>
+  </string-array>
+    <string-array name="preferences_default_reminder_labels">
+    <item msgid="7495163916242649023">"なし"</item>
+    <item msgid="5883344836499335043">"0分"</item>
+    <item msgid="4354350447805231188">"1分"</item>
+    <item msgid="265674592625309858">"5分"</item>
+    <item msgid="8011089417728419666">"10分"</item>
+    <item msgid="6177098581805412986">"15分"</item>
+    <item msgid="356346660503078923">"20分"</item>
+    <item msgid="992592434377054063">"25分"</item>
+    <item msgid="9191353668596201944">"30分"</item>
+    <item msgid="1192985682962908244">"45分"</item>
+    <item msgid="1694315499429259938">"1時間"</item>
+    <item msgid="8281019320591769635">"2時間"</item>
+    <item msgid="2062931719019287773">"3時間"</item>
+    <item msgid="4086495711621133006">"12時間"</item>
+    <item msgid="3172669681920709561">"24時間"</item>
+    <item msgid="5557836606782821910">"2日"</item>
+    <item msgid="8336577387266744930">"1週間"</item>
+  </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+    <item msgid="2285927842308686988">"辞退した場合のみ"</item>
+    <item msgid="6367412240524984286">"辞退したか応答がなかった場合"</item>
+  </string-array>
+    <string-array name="preferences_week_start_day_labels">
+    <item msgid="986150274035512339">"ユーザーの言語/地域でのデフォルト設定"</item>
+    <item msgid="134027225275475280">"土曜日"</item>
+    <item msgid="95029346069903091">"日曜日"</item>
+    <item msgid="5840983116375063739">"月曜日"</item>
+  </string-array>
+    <string-array name="recurrence_freq">
+    <item msgid="3388478383574917007">"繰り返し: 毎日"</item>
+    <item msgid="6300824484048337842">"繰り返し: 毎週"</item>
+    <item msgid="189361731610816256">"繰り返し: 毎月"</item>
+    <item msgid="8714177874112569158">"繰り返し: 毎年"</item>
+  </string-array>
+    <string-array name="reminder_methods_labels">
+    <item msgid="5172236776878811487">"通知"</item>
+    <item msgid="1751151680520784746">"メール"</item>
+    <item msgid="2658001219380695677">"SMS"</item>
+    <item msgid="7926918288165444873">"アラーム"</item>
+  </string-array>
+    <string-array name="reminder_minutes_labels">
+    <item msgid="2416970002377237011">"0分"</item>
+    <item msgid="6681865010714743948">"1分"</item>
+    <item msgid="2327505114623595779">"5分"</item>
+    <item msgid="1657410063332547113">"10分"</item>
+    <item msgid="366087535181197780">"15分"</item>
+    <item msgid="6252612791145061929">"20分"</item>
+    <item msgid="7896694531989090700">"25分"</item>
+    <item msgid="8754510169374808607">"30分"</item>
+    <item msgid="3113380274218454394">"45分"</item>
+    <item msgid="8546646645868526283">"1時間"</item>
+    <item msgid="6467845211024768872">"2時間"</item>
+    <item msgid="8201677619511076575">"3時間"</item>
+    <item msgid="7172504281650128893">"12時間"</item>
+    <item msgid="9114286702181482496">"24時間"</item>
+    <item msgid="3107009344872997366">"2日"</item>
+    <item msgid="6135563708172153696">"1週間"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_fri">
+    <item msgid="6534500380525126157">"毎月第1金曜日"</item>
+    <item msgid="1935608297230506940">"毎月第2金曜日"</item>
+    <item msgid="4061877662049317599">"毎月第3金曜日"</item>
+    <item msgid="6856646749131820614">"毎月第4金曜日"</item>
+    <item msgid="6533513913914859794">"毎月最終金曜日"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_mon">
+    <item msgid="7539974918997689048">"毎月第1月曜日"</item>
+    <item msgid="4484275849072423978">"毎月第2月曜日"</item>
+    <item msgid="8956169860824371383">"毎月第3月曜日"</item>
+    <item msgid="6924403357659569326">"毎月第4月曜日"</item>
+    <item msgid="1379608815263472161">"毎月最終月曜日"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sat">
+    <item msgid="3556369572649948699">"毎月第1土曜日"</item>
+    <item msgid="9130198690512925355">"毎月第2土曜日"</item>
+    <item msgid="4525736070844032405">"毎月第3土曜日"</item>
+    <item msgid="422053689531707709">"毎月第4土曜日"</item>
+    <item msgid="5499975799312474425">"毎月最終土曜日"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sun">
+    <item msgid="143841313172233420">"毎月第1日曜日"</item>
+    <item msgid="2557379346106451363">"毎月第2日曜日"</item>
+    <item msgid="7622144489915654132">"毎月第3日曜日"</item>
+    <item msgid="527152448137686021">"毎月第4日曜日"</item>
+    <item msgid="5057483608824759350">"毎月最終日曜日"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_thurs">
+    <item msgid="920673677566009313">"毎月第1木曜日"</item>
+    <item msgid="4857419136007543270">"毎月第2木曜日"</item>
+    <item msgid="222044587450564839">"毎月第3木曜日"</item>
+    <item msgid="6197927556533030945">"毎月第4木曜日"</item>
+    <item msgid="1023326923033436905">"毎月最終木曜日"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_tues">
+    <item msgid="8690802834039790777">"毎月第1火曜日"</item>
+    <item msgid="9063613547307760928">"毎月第2火曜日"</item>
+    <item msgid="6688603328729208168">"毎月第3火曜日"</item>
+    <item msgid="6695206006961533357">"毎月第4火曜日"</item>
+    <item msgid="8619069174889809914">"毎月最終火曜日"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_wed">
+    <item msgid="3233850232075584386">"毎月第1水曜日"</item>
+    <item msgid="5059722045367799217">"毎月第2水曜日"</item>
+    <item msgid="7986246648229272275">"毎月第3水曜日"</item>
+    <item msgid="9068566169348980801">"毎月第4水曜日"</item>
+    <item msgid="7976866743069062134">"毎月最終水曜日"</item>
+  </string-array>
+    <string-array name="response_labels1">
+    <item msgid="5605392595848194997">"応答がありません"</item>
+    <item msgid="3724434080904437698">"はい"</item>
+    <item msgid="8854145743148992583">"未定"</item>
+    <item msgid="6174292185978948873">"いいえ"</item>
+  </string-array>
+    <string-array name="visibility">
+    <item msgid="3035788428581513163">"デフォルト"</item>
+    <item msgid="5200216103966973369">"限定公開"</item>
+    <item msgid="9182342638433672664">"一般公開"</item>
+  </string-array>
+    <color name="calendar_date_banner_text_color">#ff000000</color>
+    <color name="month_saturday">#ff2222cc</color>
+    <color name="month_sunday">#ffcc2222</color>
+    <color name="week_saturday">#ff2222cc</color>
+    <color name="week_sunday">#ffcc2222</color>
+    <plurals name="recurrence_end_count">
+    <item msgid="1400782968090516215" quantity="one">"<ns1:g id="EVENT_COUNT">%d</ns1:g>回繰り返す"</item>
+    <item msgid="8779598489398048259" quantity="other">"<ns1:g id="EVENT_COUNT">%d</ns1:g>回繰り返す"</item>
+  </plurals>
+    <plurals name="recurrence_interval_daily">
+    <item msgid="1205422710088692631" quantity="one">"繰り返す間隔: <ns1:g id="COUNT">%d</ns1:g>日"</item>
+    <item msgid="707566499994398250" quantity="other">"繰り返す間隔: <ns1:g id="COUNT">%d</ns1:g>日"</item>
+  </plurals>
+    <plurals name="recurrence_interval_monthly">
+    <item msgid="4768178401603139718" quantity="one">"繰り返す間隔: <ns1:g id="COUNT">%d</ns1:g>か月"</item>
+    <item msgid="5419723710346646523" quantity="other">"繰り返す間隔: <ns1:g id="COUNT">%d</ns1:g>か月"</item>
+  </plurals>
+    <plurals name="recurrence_interval_weekly">
+    <item msgid="4948681635464488351" quantity="one">"繰り返す間隔: <ns1:g id="COUNT">%d</ns1:g>週間"</item>
+    <item msgid="7094801039989237061" quantity="other">"繰り返す間隔: <ns1:g id="COUNT">%d</ns1:g>週間"</item>
+  </plurals>
+    <plurals name="recurrence_interval_yearly">
+    <item msgid="5819562634008179102" quantity="one">"繰り返す間隔: <ns1:g id="COUNT">%d</ns1:g>年"</item>
+    <item msgid="5678653649746562060" quantity="other">"繰り返す間隔: <ns1:g id="COUNT">%d</ns1:g>年"</item>
+  </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s、%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s、%2$s、%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"検索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string msgid="5899029840837836711" name="acessibility_recurrence_choose_end_date_description">"終了日を変更します"</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>には現在利用されていないGoogle Play開発者サービスが必要です。詳しくはデベロッパーにお問い合わせください。"</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Play開発者サービスの有効化"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行には、Google Play開発者サービスの有効化が必要です。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play開発者サービスの有効化"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Google Play開発者サービスを入手"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、お使いのスマートフォンにはインストールされていません。"</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、お使いのタブレットにはインストールされていません。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play開発者サービスの入手"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"指定したアカウントはこの端末上に存在しません。別のアカウントを選択してください。"</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"無効なアカウント"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Google Play開発者サービスに接続するには、データ接続が必要です。"</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"ネットワークエラー"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play開発者サービスのエラー"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>に必要な操作を完了してください。"</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Google Play 開発者サービスで操作が必要"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"制限付きプロフィールからのアカウントへのアクセスはサポートされていません。"</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"制限付きプロフィール"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"指定されたアカウントへのログイン中にエラーが発生しました。別のアカウントを選択してください。"</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"ログインできませんでした"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」でGoogle Play開発者サービスに問題が発生しています。問題が解決しない場合は、デベロッパーにお問い合わせください。"</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>に必要なGoogle Play開発者サービスは、お使いの端末ではサポートされていません。詳しくは端末メーカーにお問い合わせください。"</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play開発者サービス"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスの更新が必要です。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play開発者サービスの更新"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>の実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。"</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play開発者サービスの更新中"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"スマートフォンで開く"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ログイン"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Googleにログイン"</string>
+    <string msgid="3968620852217927702" name="day_picker_description">"日グリッド（月別）"</string>
+    <string msgid="6908431551612331381" name="deleted_key">"<ns1:g id="KEY">%1$s</ns1:g>を削除しました"</string>
+    <string msgid="7007948707597430919" name="done_label">"完了"</string>
+    <string msgid="4808253965057791781" name="email_picker_label">"メールに次を含める:"</string>
+    <string msgid="7586639618712934060" name="hour_picker_description">"円形スライダー（時）"</string>
+    <string msgid="2674929164900463786" name="item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g>を選択しました"</string>
+    <string msgid="6024811202872705251" name="minute_picker_description">"円形スライダー（分）"</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"検索をクリア"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"検索"</string>
+    <string msgid="8093909645557717483" name="recurrence_dialog_title">"繰り返し"</string>
+    <string msgid="2679396029776590130" name="recurrence_dialog_title_never">"1度のみ"</string>
+    <string msgid="6898950241634912991" name="recurrence_end_continously">"終了日なし"</string>
+    <string msgid="1233883668293087977" name="recurrence_end_count_label">"回数"</string>
+    <string msgid="3693751578164711701" name="recurrence_end_date">"<ns1:g id="DATE">%s</ns1:g>まで"</string>
+    <string msgid="4142791438636994952" name="recurrence_end_date_label">"終了日:"</string>
+    <string msgid="4400107556121003459" name="recurrence_month_pattern_by_day">"毎月同じ日"</string>
+    <string msgid="2133599104834432589" name="save_label">"完了"</string>
+    <string msgid="3973338219107019769" name="select_day">"月と日を選択"</string>
+    <string msgid="7651068754188418859" name="select_hours">"時間を選択"</string>
+    <string msgid="8327182090226828481" name="select_minutes">"分を選択"</string>
+    <string msgid="2603330600102539372" name="select_year">"年を選択"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="6963340404644587098" name="year_picker_description">"年リスト"</string>
+</resources>

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mount\\AndroidStudioProjects\\WizFlow\\wizFlow\\build\\intermediates\\incremental\\mergePlayReleaseResources\\merged.dir\\values-mcc262\\values-mcc262.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mount\\.gradle\\caches\\transforms-1\\files-1.1\\library-1.1.1.aar\\52a6a508c742e1ee261c9970821b6797\\res\\values-mcc262\\strings.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "840",
+                        "endColumns": "62",
+                        "endOffsets": "898"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                }
+            ]
+        }
+    ]
+}

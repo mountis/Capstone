@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\jniLibs"/></dataSet><dataSet config="play"><source path="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\play\jniLibs"/></dataSet><dataSet config="release"><source path="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\release\jniLibs"/></dataSet><dataSet config="playRelease"><source path="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\playRelease\jniLibs"/></dataSet></merger>

@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 3.1.2">
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`help`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;help&quot;>Help&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="163"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="163"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`online_manual`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;online_manual&quot;>Online manual&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="164"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="164"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`settings_changelog`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;settings_changelog&quot;>Changelog&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="223"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="223"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`donate`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;donate&quot;>Donate&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="256"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="256"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`donate_summary`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;donate_summary&quot;>Support the development of this app with a non-profit donation&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="257"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="257"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_request_start`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_request_start&quot;>You launched Omni Note for the first time, would you like to take the application tour?&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="343"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="343"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_listactivity_intro_title`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_listactivity_intro_title&quot;>Welcome to Omni Notes!&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="344"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="344"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_listactivity_intro_detail`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_listactivity_intro_detail&quot;>press \&quot;Proceed\&quot; to continue the tour&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="345"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="345"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_listactivity_actions_title`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_listactivity_actions_title&quot;>Actions&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="346"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="346"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_listactivity_actions_detail`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_listactivity_actions_detail&quot;>Create new notes, sort them, access to preferences&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="347"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="347"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_listactivity_home_title`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_listactivity_home_title&quot;>Navigate&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="348"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="348"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_listactivity_home_detail`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_listactivity_home_detail&quot;>Navigation menu allows you to move through notes with filters and categories&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="349"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="349"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_listactivity_tag_title`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_listactivity_tag_title&quot;>Tags&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="350"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="350"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_listactivity_tag_detail`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_listactivity_tag_detail&quot;>Add colored categories to organize notes at-a-glance&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="351"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="351"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_detailactivity_attachment_title`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_detailactivity_attachment_title&quot;>Improve&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="352"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="352"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_detailactivity_attachment_detail`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_detailactivity_attachment_detail&quot;>Add attachment of several kinds to your notes!&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="353"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="353"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_detailactivity_action_title`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_detailactivity_action_title&quot;>Do more&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="354"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="354"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_detailactivity_action_detail`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_detailactivity_action_detail&quot;>Share, tag, archive, protect, and more&amp;#8230;&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="355"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="355"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_detailactivity_reminder_title`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_detailactivity_reminder_title&quot;>Just press&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="356"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="356"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_detailactivity_reminder_detail`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_detailactivity_reminder_detail&quot;>Long presses have different effects on an object (attachment, location, reminder) than short ones!&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="357"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="357"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_detailactivity_links_title`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_detailactivity_links_title&quot;>Links&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="358"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="358"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_detailactivity_links_detail`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_detailactivity_links_detail&quot;>URL, e-mail addresses and telephone numbers recognition&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="359"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="359"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_detailactivity_swipe_title`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_detailactivity_swipe_title&quot;>Swipe&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="360"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="360"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_detailactivity_swipe_detail`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_detailactivity_swipe_detail&quot;>Create new notes without \n leaving the one you\&apos;re editing&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="361"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="361"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_detailactivity_save_title`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_detailactivity_save_title&quot;>Save&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="362"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="362"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_detailactivity_save_detail`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_detailactivity_save_detail&quot;>To go back, press the \&quot;up\&quot; navigation icon, or your device button&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="363"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="363"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_listactivity_final_title`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_listactivity_final_title&quot;>Enjoy&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="364"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="364"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_listactivity_final_detail`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_listactivity_final_detail&quot;>Thanks for using Omni Notes \nThe opensource alternative for productivity and leisure note-taking!&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="365"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="365"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        severity="Fatal"
+        message="&quot;`tour_community`&quot; is translated here but not found in default locale"
+        category="Correctness:Messages"
+        priority="6"
+        summary="Extra translation"
+        explanation="If a string appears in a specific language translation file, but there is no corresponding string in the default locale, then this string is probably unused. (It&apos;s technically possible that your application is only intended to run in a specific locale, but it&apos;s still a good idea to provide a fallback.).&#xA;&#xA;Note that these strings can lead to crashes if the string is looked up on any locale not providing a translation, so it&apos;s important to clean them up."
+        errorLine1="    &lt;string name=&quot;tour_community&quot;>Don\&apos;t forget to subscribe our community!&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-en-rUS\strings.xml"
+            line="366"
+            column="13"/>
+        <location
+            file="C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\values-fr-rFR\strings.xml"
+            line="366"
+            column="13"/>
+    </issue>
+
+</issues>

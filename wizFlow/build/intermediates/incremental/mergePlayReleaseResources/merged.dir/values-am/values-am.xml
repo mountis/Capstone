@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="availability">
+    <item msgid="454869065893453189">"ተይዟ ል"</item>
+    <item msgid="6228387173725732140">"የሚገኝ"</item>
+    <item msgid="2064426942462573474">"ጊዜያዊ"</item>
+  </string-array>
+    <string-array name="buttons_list">
+    <item msgid="5917946202321434335">"ቀን"</item>
+    <item msgid="6248480754959562740">"ሳምንት"</item>
+    <item msgid="4298472806133153766">"ወር"</item>
+    <item msgid="5033084974413793845">"አጀንዳ"</item>
+  </string-array>
+    <string-array name="change_response_labels">
+    <item msgid="3466644709343519437">"ይህ ክስተት ብቻ"</item>
+    <item msgid="140670561403965380">"ሁሉም ዝግጅቶች በተከታታይ"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels">
+    <item msgid="4208432367651646938">"ይህ ክስተት ብቻ"</item>
+    <item msgid="1536401639805370405">"ይሄ እና የወደፊት ክስተቶች"</item>
+    <item msgid="7833229563617435430">"ሁሉም ክስተቶች"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+    <item msgid="1341910309321756150">"ይህ&amp; የወደፊት ዝግጅቶች"</item>
+    <item msgid="6315440193748139854">"ሁሉም ክስተቶች"</item>
+  </string-array>
+    <string-array name="ordinal_labels">
+    <item msgid="2693927956303125332">"አንደኛ"</item>
+    <item msgid="5631923029483854900">"ሁለተኛ"</item>
+    <item msgid="148935502975250973">"ሦስተኛ"</item>
+    <item msgid="5124200797326669172">"አራተኛ"</item>
+    <item msgid="7564374178324652137">"መጨረሻ"</item>
+  </string-array>
+    <string-array name="preferences_default_reminder_labels">
+    <item msgid="7495163916242649023">"የለም"</item>
+    <item msgid="5883344836499335043">"0 ደቂቃዎች"</item>
+    <item msgid="4354350447805231188">"1 ደቂቃ"</item>
+    <item msgid="265674592625309858">"5 ደቂቃዎች"</item>
+    <item msgid="8011089417728419666">"10 ደቂቃዎች"</item>
+    <item msgid="6177098581805412986">"15 ደቂቃዎች"</item>
+    <item msgid="356346660503078923">"20 ደቂቃዎች"</item>
+    <item msgid="992592434377054063">"25 ደቂቃዎች"</item>
+    <item msgid="9191353668596201944">"30 ደቂቃዎች"</item>
+    <item msgid="1192985682962908244">"45 ደቂቃዎች"</item>
+    <item msgid="1694315499429259938">"1 ሰዓት"</item>
+    <item msgid="8281019320591769635">"2 ሰዓቶች"</item>
+    <item msgid="2062931719019287773">"3 ሰዓቶች"</item>
+    <item msgid="4086495711621133006">"12 ሰዓቶች"</item>
+    <item msgid="3172669681920709561">"24 ሰዓቶች"</item>
+    <item msgid="5557836606782821910">"2 ቀኖች"</item>
+    <item msgid="8336577387266744930">"1 ሳምንት"</item>
+  </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+    <item msgid="2285927842308686988">"ተቀባይነት ካላገኘ ብቻ"</item>
+    <item msgid="6367412240524984286">"ተቀባይነት ካላገኘ ወይም ምላሽ ካልተሰጠበት"</item>
+  </string-array>
+    <string-array name="preferences_week_start_day_labels">
+    <item msgid="986150274035512339">"የአካባቢ ነባሪ"</item>
+    <item msgid="134027225275475280">"ቅዳሜ"</item>
+    <item msgid="95029346069903091">"እሁድ"</item>
+    <item msgid="5840983116375063739">"ሰኞ"</item>
+  </string-array>
+    <string-array name="recurrence_freq">
+    <item msgid="3388478383574917007">"በየቀኑ ድገም"</item>
+    <item msgid="6300824484048337842">"በየሳምንቱ ድገም"</item>
+    <item msgid="189361731610816256">"በየወሩ ድገም"</item>
+    <item msgid="8714177874112569158">"በየዓመቱ ድገም"</item>
+  </string-array>
+    <string-array name="reminder_methods_labels">
+    <item msgid="5172236776878811487">"ማሳወቂያ"</item>
+    <item msgid="1751151680520784746">"ኢሜይል"</item>
+    <item msgid="2658001219380695677">"አጭር የፅሁፍ መልዕክት"</item>
+    <item msgid="7926918288165444873">"ማንቂያ ደውል"</item>
+  </string-array>
+    <string-array name="reminder_minutes_labels">
+    <item msgid="2416970002377237011">"0 ደቂቃዎች"</item>
+    <item msgid="6681865010714743948">"1 ደቂቃ"</item>
+    <item msgid="2327505114623595779">"5 ደቂቃዎች"</item>
+    <item msgid="1657410063332547113">"10 ደቂቃዎች"</item>
+    <item msgid="366087535181197780">"15 ደቂቃዎች"</item>
+    <item msgid="6252612791145061929">"20 ደቂቃዎች"</item>
+    <item msgid="7896694531989090700">"25 ደቂቃዎች"</item>
+    <item msgid="8754510169374808607">"30 ደቂቃዎች"</item>
+    <item msgid="3113380274218454394">"45 ደቂቃዎች"</item>
+    <item msgid="8546646645868526283">"1 ሰዓት"</item>
+    <item msgid="6467845211024768872">"2 ሰዓቶች"</item>
+    <item msgid="8201677619511076575">"3 ሰዓቶች"</item>
+    <item msgid="7172504281650128893">"12 ሰዓቶች"</item>
+    <item msgid="9114286702181482496">"24 ሰዓቶች"</item>
+    <item msgid="3107009344872997366">"2 ቀኖች"</item>
+    <item msgid="6135563708172153696">"1 ሳምንት"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_fri">
+    <item msgid="6534500380525126157">"በሁሉም የመጀመሪያ አርብ"</item>
+    <item msgid="1935608297230506940">"በሁሉም ሁለተኛ አርብ"</item>
+    <item msgid="4061877662049317599">"በሁሉም ሶስተኛ አርብ"</item>
+    <item msgid="6856646749131820614">"በሁሉም አራተኛ አርብ"</item>
+    <item msgid="6533513913914859794">"በሁሉም የመጨረሻ አርብ"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_mon">
+    <item msgid="7539974918997689048">"በሁሉም የመጀመሪያ ሰኞ"</item>
+    <item msgid="4484275849072423978">"በሁሉም ሁለተኛ ሰኞ"</item>
+    <item msgid="8956169860824371383">"በሁሉም ሶስተኛ ሰኞ"</item>
+    <item msgid="6924403357659569326">"በሁሉም አራተኛ ሰኞ"</item>
+    <item msgid="1379608815263472161">"በሁሉም የመጨረሻ ሰኞ"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sat">
+    <item msgid="3556369572649948699">"በሁሉም የመጀመሪያ ቅዳሜ"</item>
+    <item msgid="9130198690512925355">"በሁሉም ሁለተኛ ቅዳሜ"</item>
+    <item msgid="4525736070844032405">"በሁሉም ሶስተኛ ቅዳሜ"</item>
+    <item msgid="422053689531707709">"በሁሉም አራተኛ ቅዳሜ"</item>
+    <item msgid="5499975799312474425">"በሁሉም የመጨረሻ ቅዳሜ"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sun">
+    <item msgid="143841313172233420">"በሁሉም የመጀመሪያ እሁድ"</item>
+    <item msgid="2557379346106451363">"በሁሉም ሁለተኛ እሁድ"</item>
+    <item msgid="7622144489915654132">"በሁሉም ሶስተኛ እሁድ"</item>
+    <item msgid="527152448137686021">"በሁሉም አራተኛ እሁድ"</item>
+    <item msgid="5057483608824759350">"በሁሉም የመጨረሻ እሁድ"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_thurs">
+    <item msgid="920673677566009313">"በሁሉም የመጀመሪያ ሃሙስ"</item>
+    <item msgid="4857419136007543270">"በሁሉም ሁለተኛ ሃሙስ"</item>
+    <item msgid="222044587450564839">"በሁሉም ሶስተኛ ሃሙስ"</item>
+    <item msgid="6197927556533030945">"በሁሉም አራተኛ ሃሙስ"</item>
+    <item msgid="1023326923033436905">"በሁሉም የመጨረሻ ሃሙስ"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_tues">
+    <item msgid="8690802834039790777">"በሁሉም የመጀመሪያ ማክሰኞ"</item>
+    <item msgid="9063613547307760928">"በሁሉም ሁለተኛ ማክሰኞ"</item>
+    <item msgid="6688603328729208168">"በሁሉም ሶስተኛ ማክሰኞ"</item>
+    <item msgid="6695206006961533357">"በሁሉም አራተኛ ማክሰኞ"</item>
+    <item msgid="8619069174889809914">"በሁሉም የመጨረሻ ማክሰኞ"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_wed">
+    <item msgid="3233850232075584386">"በሁሉም የመጀመሪያ ረቡዕ"</item>
+    <item msgid="5059722045367799217">"በሁሉም ሁለተኛ ረቡዕ"</item>
+    <item msgid="7986246648229272275">"በሁሉም ሶስተኛ ረቡዕ"</item>
+    <item msgid="9068566169348980801">"በሁሉም አራተኛ ረቡዕ"</item>
+    <item msgid="7976866743069062134">"በሁሉም የመጨረሻ ረቡዕ"</item>
+  </string-array>
+    <string-array name="response_labels1">
+    <item msgid="5605392595848194997">"ምንም  ምላሽ የለም"</item>
+    <item msgid="3724434080904437698">"አዎ"</item>
+    <item msgid="8854145743148992583">"ምናልባት"</item>
+    <item msgid="6174292185978948873">"አይ"</item>
+  </string-array>
+    <string-array name="visibility">
+    <item msgid="3035788428581513163">"ነባሪ"</item>
+    <item msgid="5200216103966973369">"የግል"</item>
+    <item msgid="9182342638433672664">"ሕዝብ"</item>
+  </string-array>
+    <plurals name="recurrence_end_count">
+    <item msgid="1400782968090516215" quantity="one">"ለ<ns1:g id="EVENT_COUNT">%d</ns1:g> ክስተት"</item>
+    <item msgid="8779598489398048259" quantity="other">"ለ<ns1:g id="EVENT_COUNT">%d</ns1:g> ክስተቶች"</item>
+  </plurals>
+    <plurals name="recurrence_interval_daily">
+    <item msgid="1205422710088692631" quantity="one">"በየ<ns1:g id="COUNT">%d</ns1:g> ቀን"</item>
+    <item msgid="707566499994398250" quantity="other">"በየ<ns1:g id="COUNT">%d</ns1:g> ቀን"</item>
+  </plurals>
+    <plurals name="recurrence_interval_monthly">
+    <item msgid="4768178401603139718" quantity="one">"በየ<ns1:g id="COUNT">%d</ns1:g> ወር"</item>
+    <item msgid="5419723710346646523" quantity="other">"በየ<ns1:g id="COUNT">%d</ns1:g> ወር"</item>
+  </plurals>
+    <plurals name="recurrence_interval_weekly">
+    <item msgid="4948681635464488351" quantity="one">"በየ<ns1:g id="COUNT">%d</ns1:g> ሳምንት"</item>
+    <item msgid="7094801039989237061" quantity="other">"በየ<ns1:g id="COUNT">%d</ns1:g> ሳምንት"</item>
+  </plurals>
+    <plurals name="recurrence_interval_yearly">
+    <item msgid="5819562634008179102" quantity="one">"በየ<ns1:g id="COUNT">%d</ns1:g> ዓመት"</item>
+    <item msgid="5678653649746562060" quantity="other">"በየ<ns1:g id="COUNT">%d</ns1:g> ዓመት"</item>
+  </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ወደ መነሻ ይዳስሱ"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s፣ %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s፣ %2$s፣ %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ወደ ላይ ይዳስሱ"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ተጨማሪ አማራጮች"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"ተከናውኗል"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ሁሉንም ይመልከቱ"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"መተግበሪያ ይምረጡ"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ጠፍቷል"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"በርቷል"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"ፈልግ…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"መጠይቅ አጽዳ"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"የፍለጋ ጥያቄ"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ፍለጋ"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"መጠይቅ ያስረክቡ"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"የድምፅ ፍለጋ"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ከሚከተለው ጋር ያጋሩ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"ከ%s ጋር ያጋሩ"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ሰብስብ"</string>
+    <string msgid="5899029840837836711" name="acessibility_recurrence_choose_end_date_description">"የመጨረሻውን ቀን ቀይር"</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> በአሁኑ ጊዜ የማይገኝ አንድ ወይም ከዚያ በላይ የGoogle Play አገልግሎቶችን ያስፈልገዋል። እገዛ ለማግኘት እባክዎ ገንቢውን ያነጋግሩ።"</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Google Play አገልግሎቶችን አንቃ"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play አገልግሎቶችን ካላነቁ በስተቀር <ns1:g id="APP_NAME">%1$s</ns1:g> አይሰራም።"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play አገልግሎቶችን ያንቁ"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Google Play አገልግሎቶችን ያግኙ"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> ያለ Google Play አገልግሎቶች አይሰራም፣ እነሱ ደግሞ በእርስዎ ስልክ ላይ የሉም።"</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> ያለ Google Play አገልግሎቶች አይሰራም፣ እነሱ ደግሞ በስልክዎ ላይ የሉም።"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play አገልግሎቶችን ያግኙ"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"የተገለጸው መለያ በዚህ መሣሪያ ላይ የለም። እባክው የተለየ መለያ ይምረጡ።"</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"ልክ ያልሆነ መለያ"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"ከGoogle Play አገልግሎቶች ጋር ለመገናኘት የውሂብ ግንኙነት ያስፈልጋል።"</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"የአውታረ መረብ ስህተት"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"የGoogle Play አገልግሎቶች ስህተት"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"እባክዎ በ<ns1:g id="APP_NAME">%1$s</ns1:g> የሚፈለገውን እርምጃ ያጠናቅቁ።"</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"የGoogle Play አገልግሎቶች እርምጃ ያስፈልገዋል"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"መለያዎችን ከተገደበ መገለጫ መድረስ አይደገፍም።"</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"የተገደበ መገለጫ"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"ወደተገለጸው መለያ መግባት ላይ ስህተት። እባክዎ የተለየ መለያ ይምረጡ።"</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"በመለያ መግባት አልተሳካም"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> በGoogle Play አገልግሎቶች ላይ እየተቸገረ ነው። ችግሩ ከቀጠለ እባክዎ እርዳታ ለማግኘት ገንቢውን ያነጋግሩ።"</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> በመሣሪያዎ በማይደገፉ Google Play አገልግሎቶች ላይ የተወሰነ ነው። እርዳታ ለማግኘት አምራቹን ያነጋግሩ።"</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play አገልግሎቶች"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"ያዘምኑ"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play አገልግሎቶችን ካላዘመኑ በስተቀር ድረስ <ns1:g id="APP_NAME">%1$s</ns1:g> አይሰራም።"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play አገልግሎቶችን ያዘምኑ"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ያለ Google Play አገልግሎቶች አይሰራም፣ እነሱ ደግሞ በአሁኑ ጊዜ በመዘመን ላይ ናቸው።"</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"የGoogle Play አገልግሎቶች በመዘመን ላይ ናቸው"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"አዲስ የGoogle Play አገልግሎቶች ስሪት ያስፈልጋል። በቅርቡ እራሱን ያዘምናል።"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"ስልክ ላይ ክፈት"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"ግባ"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"በGoogle ይግቡ"</string>
+    <string msgid="3968620852217927702" name="day_picker_description">"የቀናት የወር ፍርግርግ"</string>
+    <string msgid="6908431551612331381" name="deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> ተሰርዟል"</string>
+    <string msgid="7007948707597430919" name="done_label">"ተከናውኗል"</string>
+    <string msgid="4808253965057791781" name="email_picker_label">"በነዚህ ኢሜይል ላክ"</string>
+    <string msgid="7586639618712934060" name="hour_picker_description">"የሰዓታት ክብ ተንሸራታች"</string>
+    <string msgid="2674929164900463786" name="item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> ተመርጧል"</string>
+    <string msgid="6024811202872705251" name="minute_picker_description">"የደቂቃዎች ክብ ተንሸራታች"</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"ፍለጋን አጽዳ"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"ይፈልጉ"</string>
+    <string msgid="8093909645557717483" name="recurrence_dialog_title">"ድገም"</string>
+    <string msgid="2679396029776590130" name="recurrence_dialog_title_never">"በጭራሽ አይደገምም"</string>
+    <string msgid="6898950241634912991" name="recurrence_end_continously">"ለዘለዓለም"</string>
+    <string msgid="1233883668293087977" name="recurrence_end_count_label">"ለተወሰነ የክስተቶች ብዛት"</string>
+    <string msgid="3693751578164711701" name="recurrence_end_date">"እስከ <ns1:g id="DATE">%s</ns1:g> ድረስ"</string>
+    <string msgid="4142791438636994952" name="recurrence_end_date_label">"እስከ አንድ ቀን ድረስ"</string>
+    <string msgid="4400107556121003459" name="recurrence_month_pattern_by_day">"በየወሩ በተመሳሳዩ ቀን ላይ"</string>
+    <string msgid="2133599104834432589" name="save_label">"ተከናውኗል"</string>
+    <string msgid="3973338219107019769" name="select_day">"ወር እና ቀን ይምረጡ"</string>
+    <string msgid="7651068754188418859" name="select_hours">"ሰዓታትን ምረጥ"</string>
+    <string msgid="8327182090226828481" name="select_minutes">"ደቂቃዎችን ምረጥ"</string>
+    <string msgid="2603330600102539372" name="select_year">"ዓመት ይምረጡ"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="6963340404644587098" name="year_picker_description">"የዓመት ዝርዝር"</string>
+</resources>

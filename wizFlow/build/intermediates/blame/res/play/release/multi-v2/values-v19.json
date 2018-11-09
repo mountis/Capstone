@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mount\\AndroidStudioProjects\\WizFlow\\wizFlow\\build\\intermediates\\incremental\\mergePlayReleaseResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mount\\AndroidStudioProjects\\WizFlow\\wizFlow\\src\\main\\res\\values-v19\\dimens.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "67,17,120",
+                        "endColumns": "52,49,52",
+                        "endOffsets": "115,62,168"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,153,203",
+                        "endColumns": "52,49,52",
+                        "endOffsets": "148,198,251"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mount\\AndroidStudioProjects\\WizFlow\\wizFlow\\src\\main\\res\\values-v19\\bools.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "58",
+                        "endColumns": "44",
+                        "endOffsets": "98"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mount\\AndroidStudioProjects\\WizFlow\\wizFlow\\src\\main\\res\\values-v19\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "76",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "283"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "256",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "463"
+                    }
+                }
+            ]
+        }
+    ]
+}

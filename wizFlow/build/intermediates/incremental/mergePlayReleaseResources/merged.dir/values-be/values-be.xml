@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="availability">
+    <item msgid="454869065893453189">"Заняты"</item>
+    <item msgid="6228387173725732140">"Даступны"</item>
+    <item msgid="2064426942462573474">"Часова"</item>
+  </string-array>
+    <string-array name="buttons_list">
+    <item msgid="5917946202321434335">"Дзень"</item>
+    <item msgid="6248480754959562740">"Тыдзень"</item>
+    <item msgid="4298472806133153766">"Месяц"</item>
+    <item msgid="5033084974413793845">"Парадак дня"</item>
+  </string-array>
+    <string-array name="change_response_labels">
+    <item msgid="3466644709343519437">"Толькі гэта мерапрыемства"</item>
+    <item msgid="140670561403965380">"Усе падзеі ў серыі"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels">
+    <item msgid="4208432367651646938">"Толькі гэта падзея"</item>
+    <item msgid="1536401639805370405">"Гэта і будучыя мерапрыемствы"</item>
+    <item msgid="7833229563617435430">"Усе падзеі"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+    <item msgid="1341910309321756150">"Гэтыя i будучыя падзеі"</item>
+    <item msgid="6315440193748139854">"Усе падзеі"</item>
+  </string-array>
+    <string-array name="ordinal_labels">
+    <item msgid="2693927956303125332">"першы"</item>
+    <item msgid="5631923029483854900">"другі"</item>
+    <item msgid="148935502975250973">"трэці"</item>
+    <item msgid="5124200797326669172">"чацвёрты"</item>
+    <item msgid="7564374178324652137">"апошні"</item>
+  </string-array>
+    <string-array name="preferences_default_reminder_labels">
+    <item msgid="7495163916242649023">"Няма"</item>
+    <item msgid="5883344836499335043">"0 хвілін"</item>
+    <item msgid="4354350447805231188">"1 хвіліна"</item>
+    <item msgid="265674592625309858">"5 хвілін"</item>
+    <item msgid="8011089417728419666">"10 хвілін"</item>
+    <item msgid="6177098581805412986">"15 хвілін"</item>
+    <item msgid="356346660503078923">"20 хвілін"</item>
+    <item msgid="992592434377054063">"25 хвілін"</item>
+    <item msgid="9191353668596201944">"30 хвілін"</item>
+    <item msgid="1192985682962908244">"45 хвілін"</item>
+    <item msgid="1694315499429259938">"1 гадзіна"</item>
+    <item msgid="8281019320591769635">"2 гадзіны"</item>
+    <item msgid="2062931719019287773">"3 гадзіны"</item>
+    <item msgid="4086495711621133006">"12 гадзін"</item>
+    <item msgid="3172669681920709561">"24 гадзіны"</item>
+    <item msgid="5557836606782821910">"2 дні"</item>
+    <item msgid="8336577387266744930">"1 тыдзень"</item>
+  </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+    <item msgid="2285927842308686988">"Толькі калі адмоўлена"</item>
+    <item msgid="6367412240524984286">"Калі адмоўлена або адказу няма"</item>
+  </string-array>
+    <string-array name="preferences_week_start_day_labels">
+    <item msgid="986150274035512339">"Рэгiянальная налада па змаўчанні"</item>
+    <item msgid="134027225275475280">"Субота"</item>
+    <item msgid="95029346069903091">"Нядзеля"</item>
+    <item msgid="5840983116375063739">"Панядзелак"</item>
+  </string-array>
+    <string-array name="recurrence_freq">
+    <item msgid="3388478383574917007">"ШТОДЗЁННЫ ПАЎТОР"</item>
+    <item msgid="6300824484048337842">"ШТОТЫДНЁВЫ ПАЎТОР"</item>
+    <item msgid="189361731610816256">"ШТОМЕСЯЧНЫ ПАЎТОР"</item>
+    <item msgid="8714177874112569158">"ШТОГАДОВЫ ПАЎТОР"</item>
+  </string-array>
+    <string-array name="reminder_methods_labels">
+    <item msgid="5172236776878811487">"Апавяшч-е"</item>
+    <item msgid="1751151680520784746">"Электр. пошта"</item>
+    <item msgid="2658001219380695677">"SMS"</item>
+    <item msgid="7926918288165444873">"Будзільнік"</item>
+  </string-array>
+    <string-array name="reminder_minutes_labels">
+    <item msgid="2416970002377237011">"0 хвілін"</item>
+    <item msgid="6681865010714743948">"1 хвіліна"</item>
+    <item msgid="2327505114623595779">"5 хвілін"</item>
+    <item msgid="1657410063332547113">"10 хвілін"</item>
+    <item msgid="366087535181197780">"15 хвілін"</item>
+    <item msgid="6252612791145061929">"20 хвілін"</item>
+    <item msgid="7896694531989090700">"25 хвілін"</item>
+    <item msgid="8754510169374808607">"30 хвілін"</item>
+    <item msgid="3113380274218454394">"45 хвілін"</item>
+    <item msgid="8546646645868526283">"1 гадзіна"</item>
+    <item msgid="6467845211024768872">"2 гадзіны"</item>
+    <item msgid="8201677619511076575">"3 гадзіны"</item>
+    <item msgid="7172504281650128893">"12 гадзін"</item>
+    <item msgid="9114286702181482496">"24 гадзіны"</item>
+    <item msgid="3107009344872997366">"2 дні"</item>
+    <item msgid="6135563708172153696">"1 тыдзень"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_fri">
+    <item msgid="6534500380525126157">"кожную першую пятніцу"</item>
+    <item msgid="1935608297230506940">"кожную другую пятніцу"</item>
+    <item msgid="4061877662049317599">"кожную трэцюю пятніцу"</item>
+    <item msgid="6856646749131820614">"кожную чацвёртую пятніцу"</item>
+    <item msgid="6533513913914859794">"кожную апошнюю пятніцу"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_mon">
+    <item msgid="7539974918997689048">"кожны першы панядзелак"</item>
+    <item msgid="4484275849072423978">"кожны другі панядзелак"</item>
+    <item msgid="8956169860824371383">"кожны трэці панядзелак"</item>
+    <item msgid="6924403357659569326">"кожны чацвёрты панядзелак"</item>
+    <item msgid="1379608815263472161">"кожны апошні панядзелак"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sat">
+    <item msgid="3556369572649948699">"кожную першую суботу"</item>
+    <item msgid="9130198690512925355">"кожную другую суботу"</item>
+    <item msgid="4525736070844032405">"кожную трэцюю суботу"</item>
+    <item msgid="422053689531707709">"кожную чацвёртую суботу"</item>
+    <item msgid="5499975799312474425">"кожную апошнюю суботу"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sun">
+    <item msgid="143841313172233420">"кожную першую нядзелю"</item>
+    <item msgid="2557379346106451363">"кожную другую нядзелю"</item>
+    <item msgid="7622144489915654132">"кожную трэцюю нядзелю"</item>
+    <item msgid="527152448137686021">"кожную чацвёртую нядзелю"</item>
+    <item msgid="5057483608824759350">"кожную апошнюю нядзелю"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_thurs">
+    <item msgid="920673677566009313">"кожны першы чацвер"</item>
+    <item msgid="4857419136007543270">"кожны другі чацвер"</item>
+    <item msgid="222044587450564839">"кожны трэці чацвер"</item>
+    <item msgid="6197927556533030945">"кожны чацвёрты чацвер"</item>
+    <item msgid="1023326923033436905">"кожны апошні чацвер"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_tues">
+    <item msgid="8690802834039790777">"кожны першы аўторак"</item>
+    <item msgid="9063613547307760928">"кожны другі аўторак"</item>
+    <item msgid="6688603328729208168">"кожны трэці аўторак"</item>
+    <item msgid="6695206006961533357">"кожны чацвёрты аўторак"</item>
+    <item msgid="8619069174889809914">"кожны апошні аўторак"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_wed">
+    <item msgid="3233850232075584386">"кожную першую сераду"</item>
+    <item msgid="5059722045367799217">"кожную другую сераду"</item>
+    <item msgid="7986246648229272275">"кожную трэцюю сераду"</item>
+    <item msgid="9068566169348980801">"кожную чацвёртую сераду"</item>
+    <item msgid="7976866743069062134">"кожную апошнюю сераду"</item>
+  </string-array>
+    <string-array name="response_labels1">
+    <item msgid="5605392595848194997">"Няма адказу"</item>
+    <item msgid="3724434080904437698">"Так"</item>
+    <item msgid="8854145743148992583">"Магчыма"</item>
+    <item msgid="6174292185978948873">"Не"</item>
+  </string-array>
+    <string-array name="visibility">
+    <item msgid="3035788428581513163">"Па змаўчанні"</item>
+    <item msgid="5200216103966973369">"Прыватны"</item>
+    <item msgid="9182342638433672664">"Агульнадаступнае"</item>
+  </string-array>
+    <plurals name="daily">
+        <item msgid="5169052946627480942" quantity="one">"Штодзённа"</item>
+        <item msgid="5455230727715859264" quantity="other">"Кожн. <ns1:g id="NUMBER">%d</ns1:g> д."</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item msgid="3727754565990691816" quantity="one">"; на адзін раз"</item>
+        <item msgid="4855496837834652446" quantity="other">"; для <ns1:g id="NUMBER">%d</ns1:g> р."</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+    <item msgid="1400782968090516215" quantity="one">"Для мерапрыемства <ns1:g id="EVENT_COUNT">%d</ns1:g>"</item>
+    <item msgid="8779598489398048259" quantity="other">"Для мерапрыемства <ns1:g id="EVENT_COUNT">%d</ns1:g>"</item>
+  </plurals>
+    <plurals name="recurrence_interval_daily">
+    <item msgid="1205422710088692631" quantity="one">"Кожны <ns1:g id="COUNT">%d</ns1:g> дзень"</item>
+    <item msgid="707566499994398250" quantity="other">"Кожны <ns1:g id="COUNT">%d</ns1:g> дзень"</item>
+  </plurals>
+    <plurals name="recurrence_interval_monthly">
+    <item msgid="4768178401603139718" quantity="one">"Кожны <ns1:g id="COUNT">%d</ns1:g> месяц"</item>
+    <item msgid="5419723710346646523" quantity="other">"Кожныя <ns1:g id="COUNT">%d</ns1:g> мес."</item>
+  </plurals>
+    <plurals name="recurrence_interval_weekly">
+    <item msgid="4948681635464488351" quantity="one">"Кожны <ns1:g id="COUNT">%d</ns1:g> тыдз."</item>
+    <item msgid="7094801039989237061" quantity="other">"Кожныя <ns1:g id="COUNT">%d</ns1:g> тыдняў"</item>
+  </plurals>
+    <plurals name="recurrence_interval_yearly">
+    <item msgid="5819562634008179102" quantity="one">"Кожны <ns1:g id="COUNT">%d</ns1:g> год"</item>
+    <item msgid="5678653649746562060" quantity="other">"Кожныя <ns1:g id="COUNT">%d</ns1:g> гадоў"</item>
+  </plurals>
+    <plurals name="weekly">
+        <item msgid="5463021019301453273" quantity="one">"Кожны тыдзень па <ns1:g id="DAYS_OF_WEEK">%2$s</ns1:g>"</item>
+        <item msgid="2857390143157377867" quantity="other">"Кожныя <ns1:g id="NUMBER">%1$d</ns1:g> тыд. па <ns1:g id="DAYS_OF_WEEK">%2$s</ns1:g>"</item>
+    </plurals>
+    <string msgid="5899029840837836711" name="acessibility_recurrence_choose_end_date_description">"змяніць дату заканчэння"</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"Для <ns1:g id="APP_NAME">%1$s</ns1:g> патрабуецца адна ці некалькі службаў Google Play, якія зараз недаступныя. Калі ласка, звярніцеся за дапамогай да распрацоўшчыка."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Уключыць службы Google Play"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> не будзе працаваць, пакуль вы не ўключыце службы Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Уключыць службы Google Play"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Атрымаць службы Google Play"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> не будзе працаваць без службаў Google Play, якіх няма на вашым тэлефоне."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> не будзе працаваць без службаў Google Play, якіх няма на вашым планшэце."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Атрымаць службы Google Play"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"Пазначаны ўліковы запіс не існуе на гэтай прыладзе. Выберыце іншы ўліковы запіс."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Несапраўдны ўліковы запіс"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Каб падключыць службы Google Play, неабходна падключэнне для перадачы даных."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Памылка сеткі"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Памылка службаў Google Play"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Выканайце дзеянне, якое патрабуецца для <ns1:g id="APP_NAME">%1$s</ns1:g>."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Для службаў Google Play патраб. дзеянне"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"Доступ да ўліковых запісаў не падтрымліваецца ў профілю з абмежаваннямі."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Профiль з абмежаваннямі"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Памылка пры ўваходзе ў пазначаны ўліковы запіс. Выберыце іншы ўліковы запіс."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Не атрымалася ўвайсці ў сістэму"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"У праграмы <ns1:g id="APP_NAME">%1$s</ns1:g> ўзніклі праблемы са службамі Google Play. Калі праблема не знікае, звярніцеся за дапамогай да распрацоўшчыка."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> выкарыстоўвае службы Google Play, якія не падтрымліваюцца вашай прыладай. Звярніцеся за дапамогай да вытворцы."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Службы Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Абнавіць"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> не будзе працаваць, пакуль вы не абновіце службы Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Абнаўленне службаў Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> не будзе працаваць без службаў Google Play, якія ў цяперашні час абнаўляюцца."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Службы Google Play абнаўляюцца"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Патрабуецца новая версія служб Google Play. Яна абновіцца аўтаматычна ў бліжэйшы час."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Адкрыць на тэлефоне"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Увайсцi"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Увайсці праз Google"</string>
+    <string msgid="3968620852217927702" name="day_picker_description">"Сетка дзён памесячна"</string>
+    <string msgid="6908431551612331381" name="deleted_key">"Выдалена: <ns1:g id="KEY">%1$s</ns1:g>"</string>
+    <string msgid="1834400025868091301" name="dismiss_all_label">"Адмяніць усё"</string>
+    <string msgid="1877681921029738999" name="does_not_repeat">"Аднаразовая падзея"</string>
+    <string msgid="7007948707597430919" name="done_label">"Гатова"</string>
+    <string msgid="4808253965057791781" name="email_picker_label">"Электронная пошта з"</string>
+    <string msgid="7654221304929538201" name="endByDate">"; да <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="5896574838353902978" name="every_weekday">"Кожны будны дзень (Пн–Пт)"</string>
+    <string msgid="7586639618712934060" name="hour_picker_description">"Кругавы паўзунок гадзiннай стрэлкi"</string>
+    <string msgid="2674929164900463786" name="item_is_selected">"Выбраны элемент <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="minute_picker_description">"Кругавы паўзунок хвiлiннай стрэлкi"</string>
+    <string msgid="4587116285383048586" name="monthly">"Штомесяц"</string>
+    <string msgid="5370155265278821156" name="monthly_on_day">"Штомесяц (у дзень <ns1:g id="DAY_OF_MONTH">%s</ns1:g>)"</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Ачысціць пошук"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Пошук"</string>
+    <string msgid="8093909645557717483" name="recurrence_dialog_title">"Паўтарыць"</string>
+    <string msgid="2679396029776590130" name="recurrence_dialog_title_never">"Ніколі не паўтараецца"</string>
+    <string msgid="6898950241634912991" name="recurrence_end_continously">"Назаўсёды"</string>
+    <string msgid="1233883668293087977" name="recurrence_end_count_label">"Для некалькiх мерапрыемстваў"</string>
+    <string msgid="3693751578164711701" name="recurrence_end_date">"да <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="4142791438636994952" name="recurrence_end_date_label">"Да даты"</string>
+    <string msgid="4400107556121003459" name="recurrence_month_pattern_by_day">"у той жа дзень кожнага месяца"</string>
+    <string msgid="2133599104834432589" name="save_label">"Гатова"</string>
+    <string msgid="3973338219107019769" name="select_day">"Выберыце месяц і дзень"</string>
+    <string msgid="7651068754188418859" name="select_hours">"Выберыце гадзіны"</string>
+    <string msgid="8327182090226828481" name="select_minutes">"Выберыце хвіліны"</string>
+    <string msgid="2603330600102539372" name="select_year">"Выберыце год"</string>
+    <string msgid="4994488813124409077" name="snooze_all_label">"Адкласці ўсе"</string>
+    <string msgid="1515893621063224666" name="snooze_label">"Адкласці"</string>
+    <string msgid="6963340404644587098" name="year_picker_description">"Спiс гадоў"</string>
+    <string msgid="8576208380302949002" name="yearly">"Штогод (па <ns1:g id="DATES">%s</ns1:g>)"</string>
+    <string msgid="3652692085322162449" name="yearly_plain">"Штогод"</string>
+</resources>

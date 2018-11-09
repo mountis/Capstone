@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="availability">
+    <item msgid="454869065893453189">"Varattu"</item>
+    <item msgid="6228387173725732140">"Tavoitettavissa"</item>
+    <item msgid="2064426942462573474">"Alustava"</item>
+  </string-array>
+    <string-array name="buttons_list">
+    <item msgid="5917946202321434335">"Päivä"</item>
+    <item msgid="6248480754959562740">"Viikko"</item>
+    <item msgid="4298472806133153766">"Kuukausi"</item>
+    <item msgid="5033084974413793845">"Tapahtumat"</item>
+  </string-array>
+    <string-array name="change_response_labels">
+    <item msgid="3466644709343519437">"Vain tämä tapahtuma"</item>
+    <item msgid="140670561403965380">"Kaikki toistokerrat"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels">
+    <item msgid="4208432367651646938">"Vain tämä tapahtuma"</item>
+    <item msgid="1536401639805370405">"Tämä ja tulevat tapahtumat"</item>
+    <item msgid="7833229563617435430">"Kaikki tapahtumat"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+    <item msgid="1341910309321756150">"Tämä ja tulevat tapahtumat"</item>
+    <item msgid="6315440193748139854">"Kaikki tapahtumat"</item>
+  </string-array>
+    <string-array name="ordinal_labels">
+    <item msgid="2693927956303125332">"ensimmäinen"</item>
+    <item msgid="5631923029483854900">"sekunti"</item>
+    <item msgid="148935502975250973">"kolmas"</item>
+    <item msgid="5124200797326669172">"neljäs"</item>
+    <item msgid="7564374178324652137">"viimeinen"</item>
+  </string-array>
+    <string-array name="preferences_default_reminder_labels">
+    <item msgid="7495163916242649023">"Ei mitään"</item>
+    <item msgid="5883344836499335043">"0 minuuttia"</item>
+    <item msgid="4354350447805231188">"1 minuutti"</item>
+    <item msgid="265674592625309858">"5 minuuttia"</item>
+    <item msgid="8011089417728419666">"10 minuuttia"</item>
+    <item msgid="6177098581805412986">"15 minuuttia"</item>
+    <item msgid="356346660503078923">"20 minuuttia"</item>
+    <item msgid="992592434377054063">"25 minuuttia"</item>
+    <item msgid="9191353668596201944">"30 minuuttia"</item>
+    <item msgid="1192985682962908244">"45 minuuttia"</item>
+    <item msgid="1694315499429259938">"1 tunti"</item>
+    <item msgid="8281019320591769635">"2 tuntia"</item>
+    <item msgid="2062931719019287773">"3 tuntia"</item>
+    <item msgid="4086495711621133006">"12 tuntia"</item>
+    <item msgid="3172669681920709561">"24 tuntia"</item>
+    <item msgid="5557836606782821910">"2 päivää"</item>
+    <item msgid="8336577387266744930">"1 viikko"</item>
+  </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+    <item msgid="2285927842308686988">"Vain jos kieltäydyn"</item>
+    <item msgid="6367412240524984286">"Jos kieltäydyn tai en vastaa"</item>
+  </string-array>
+    <string-array name="preferences_week_start_day_labels">
+    <item msgid="986150274035512339">"Oletussijainti"</item>
+    <item msgid="134027225275475280">"lauantai"</item>
+    <item msgid="95029346069903091">"sunnuntai"</item>
+    <item msgid="5840983116375063739">"maanantai"</item>
+  </string-array>
+    <string-array name="recurrence_freq">
+    <item msgid="3388478383574917007">"TOISTA PÄIVITTÄIN"</item>
+    <item msgid="6300824484048337842">"TOISTA VIIKOITTAIN"</item>
+    <item msgid="189361731610816256">"TOISTA KUUKAUSITTAIN"</item>
+    <item msgid="8714177874112569158">"TOISTA VUOSITTAIN"</item>
+  </string-array>
+    <string-array name="reminder_methods_labels">
+    <item msgid="5172236776878811487">"Ilmoitus"</item>
+    <item msgid="1751151680520784746">"Sähköposti"</item>
+    <item msgid="2658001219380695677">"Tekstiviesti"</item>
+    <item msgid="7926918288165444873">"Hälytys"</item>
+  </string-array>
+    <string-array name="reminder_minutes_labels">
+    <item msgid="2416970002377237011">"0 minuuttia"</item>
+    <item msgid="6681865010714743948">"1 minuutti"</item>
+    <item msgid="2327505114623595779">"5 minuuttia"</item>
+    <item msgid="1657410063332547113">"10 minuuttia"</item>
+    <item msgid="366087535181197780">"15 minuuttia"</item>
+    <item msgid="6252612791145061929">"20 minuuttia"</item>
+    <item msgid="7896694531989090700">"25 minuuttia"</item>
+    <item msgid="8754510169374808607">"30 minuuttia"</item>
+    <item msgid="3113380274218454394">"45 minuuttia"</item>
+    <item msgid="8546646645868526283">"1 tunti"</item>
+    <item msgid="6467845211024768872">"2 tuntia"</item>
+    <item msgid="8201677619511076575">"3 tuntia"</item>
+    <item msgid="7172504281650128893">"12 tuntia"</item>
+    <item msgid="9114286702181482496">"24 tuntia"</item>
+    <item msgid="3107009344872997366">"2 päivää"</item>
+    <item msgid="6135563708172153696">"1 viikko"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_fri">
+    <item msgid="6534500380525126157">"kuukauden 1. perjantai"</item>
+    <item msgid="1935608297230506940">"kuukauden 2. perjantai"</item>
+    <item msgid="4061877662049317599">"kuukauden 3. perjantai"</item>
+    <item msgid="6856646749131820614">"kuukauden 4. perjantai"</item>
+    <item msgid="6533513913914859794">"kuukauden viimeinen perjantai"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_mon">
+    <item msgid="7539974918997689048">"kuukauden 1. maanantai"</item>
+    <item msgid="4484275849072423978">"kuukauden 2. maanantai"</item>
+    <item msgid="8956169860824371383">"kuukauden 3. maanantai"</item>
+    <item msgid="6924403357659569326">"kuukauden 4. maanantai"</item>
+    <item msgid="1379608815263472161">"kuukauden viimeinen maanantai"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sat">
+    <item msgid="3556369572649948699">"kuukauden 1. lauantai"</item>
+    <item msgid="9130198690512925355">"kuukauden 2. lauantai"</item>
+    <item msgid="4525736070844032405">"kuukauden 3. lauantai"</item>
+    <item msgid="422053689531707709">"kuukauden 4. lauantai"</item>
+    <item msgid="5499975799312474425">"kuukauden viimeinen lauantai"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sun">
+    <item msgid="143841313172233420">"kuukauden 1. sunnuntai"</item>
+    <item msgid="2557379346106451363">"kuukauden 2. sunnuntai"</item>
+    <item msgid="7622144489915654132">"kuukauden 3. sunnuntai"</item>
+    <item msgid="527152448137686021">"kuukauden 4. sunnuntai"</item>
+    <item msgid="5057483608824759350">"kuukauden viimeinen sunnuntai"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_thurs">
+    <item msgid="920673677566009313">"kuukauden 1. torstai"</item>
+    <item msgid="4857419136007543270">"kuukauden 2. torstai"</item>
+    <item msgid="222044587450564839">"kuukauden 3. torstai"</item>
+    <item msgid="6197927556533030945">"kuukauden 4. torstai"</item>
+    <item msgid="1023326923033436905">"kuukauden viimeinen torstai"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_tues">
+    <item msgid="8690802834039790777">"kuukauden 1. tiistai"</item>
+    <item msgid="9063613547307760928">"kuukauden 2. tiistai"</item>
+    <item msgid="6688603328729208168">"kuukauden 3. tiistai"</item>
+    <item msgid="6695206006961533357">"kuukauden 4. tiistai"</item>
+    <item msgid="8619069174889809914">"kuukauden viimeinen tiistai"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_wed">
+    <item msgid="3233850232075584386">"kuukauden 1. keskiviikko"</item>
+    <item msgid="5059722045367799217">"kuukauden 2. keskiviikko"</item>
+    <item msgid="7986246648229272275">"kuukauden 3. keskiviikko"</item>
+    <item msgid="9068566169348980801">"kuukauden 4. keskiviikko"</item>
+    <item msgid="7976866743069062134">"kuukauden viim. keskiviikko"</item>
+  </string-array>
+    <string-array name="response_labels1">
+    <item msgid="5605392595848194997">"Ei vastausta"</item>
+    <item msgid="3724434080904437698">"Kyllä"</item>
+    <item msgid="8854145743148992583">"Ehkä"</item>
+    <item msgid="6174292185978948873">"Ei"</item>
+  </string-array>
+    <string-array name="visibility">
+    <item msgid="3035788428581513163">"Oletus"</item>
+    <item msgid="5200216103966973369">"Yksityinen"</item>
+    <item msgid="9182342638433672664">"Julkinen"</item>
+  </string-array>
+    <plurals name="recurrence_end_count">
+    <item msgid="1400782968090516215" quantity="one">"<ns1:g id="EVENT_COUNT">%d</ns1:g> tapahtuman ajan"</item>
+    <item msgid="8779598489398048259" quantity="other">"<ns1:g id="EVENT_COUNT">%d</ns1:g> tapahtuman ajan"</item>
+  </plurals>
+    <plurals name="recurrence_interval_daily">
+    <item msgid="1205422710088692631" quantity="one">"<ns1:g id="COUNT">%d</ns1:g> päivän välein"</item>
+    <item msgid="707566499994398250" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> päivän välein"</item>
+  </plurals>
+    <plurals name="recurrence_interval_monthly">
+    <item msgid="4768178401603139718" quantity="one">"<ns1:g id="COUNT">%d</ns1:g> kuukauden välein"</item>
+    <item msgid="5419723710346646523" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> kuukauden välein"</item>
+  </plurals>
+    <plurals name="recurrence_interval_weekly">
+    <item msgid="4948681635464488351" quantity="one">"<ns1:g id="COUNT">%d</ns1:g> viikon välein"</item>
+    <item msgid="7094801039989237061" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> viikon välein"</item>
+  </plurals>
+    <plurals name="recurrence_interval_yearly">
+    <item msgid="5819562634008179102" quantity="one">"<ns1:g id="COUNT">%d</ns1:g> vuoden välein"</item>
+    <item msgid="5678653649746562060" quantity="other">"<ns1:g id="COUNT">%d</ns1:g> vuoden välein"</item>
+  </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Siirry ylös"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Lisää"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"POIS KÄYTÖSTÄ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"KÄYTÖSSÄ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Haku…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Tyhjennä kysely"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Hakulauseke"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Haku"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lähetä kysely"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Puhehaku"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Jakaminen:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Jakaminen: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kutista"</string>
+    <string msgid="5899029840837836711" name="acessibility_recurrence_choose_end_date_description">"muuta lopetuspäivää"</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tarvitsee yhtä tai useampaa Google Play Palvelua, jotka eivät ole tällä hetkellä käytettävissä. Ota yhteyttä kehittäjään."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Ota Google Play -palv. käyttöön"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi, ellet ota Google Play Palveluita käyttöön."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Ota Google Play Palvelut käyttöön"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Asenna Google Play Palvelut"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi ilman Google Play Palveluita, jotka puuttuvat puhelimestasi."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi ilman Google Play Palveluita, jotka puuttuvat tabletistasi."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Asenna Google Play Palvelut"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"Kyseistä tiliä ei ole tällä laitteella. Valitse toinen tili."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Tili ei kelpaa"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Google Play Palveluiden käyttöön tarvitaan verkkoyhteys."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Verkkovirhe"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Virhe Google Play -palveluissa"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Suorita sovelluksen <ns1:g id="APP_NAME">%1$s</ns1:g> edellyttämä toiminto."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Google Play Palvelut edellyttävät toimia"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"Tilien käyttöä rajoitetulla profiililla ei tueta."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Rajoitettu profiili"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Määritettyyn tiliin kirjauduttaessa tapahtui virhe. Valitse toinen tili."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Kirjautuminen epäonnistui."</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"Sovelluksella <ns1:g id="APP_NAME">%1$s</ns1:g> on ongelmia Google Play Palveluiden kanssa. Jos ongelma ei poistu, ota yhteyttä sovelluksen kehittäjään."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> käyttää Google Play Palveluita, joita laitteesi ei tue. Ota yhteyttä laitteen valmistajaan."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play Palvelut"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Päivitä"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi, ellet päivitä Google Play Palveluita."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Päivitä Google Play Palvelut"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi ilman Google Play Palveluita, joita päivitetään tällä hetkellä."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play Palveluita päivitetään"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Uusi Google Play Palveluiden versio tarvitaan. Se päivittyy pian."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Avaa puhelimessa"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Kirjaudu sisään"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Kirjaudu Google-tilille"</string>
+    <string msgid="3968620852217927702" name="day_picker_description">"Päiväruudukko kuukausittain"</string>
+    <string msgid="6908431551612331381" name="deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> poistettiin"</string>
+    <string msgid="7007948707597430919" name="done_label">"Valmis"</string>
+    <string msgid="4808253965057791781" name="email_picker_label">"Sähköposti ja"</string>
+    <string msgid="7586639618712934060" name="hour_picker_description">"Tuntien ympyränmuotoinen liukusäädin"</string>
+    <string msgid="2674929164900463786" name="item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> on valittu"</string>
+    <string msgid="6024811202872705251" name="minute_picker_description">"Minuuttien ympyränmuotoinen liukusäädin"</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Tyhjennä haku."</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Haku"</string>
+    <string msgid="8093909645557717483" name="recurrence_dialog_title">"Toisto"</string>
+    <string msgid="2679396029776590130" name="recurrence_dialog_title_never">"Ei toistu"</string>
+    <string msgid="6898950241634912991" name="recurrence_end_continously">"Ikuisesti"</string>
+    <string msgid="1233883668293087977" name="recurrence_end_count_label">"Useita kertoja"</string>
+    <string msgid="3693751578164711701" name="recurrence_end_date">"<ns1:g id="DATE">%s</ns1:g> saakka"</string>
+    <string msgid="4142791438636994952" name="recurrence_end_date_label">"Tiettyyn päivään saakka"</string>
+    <string msgid="4400107556121003459" name="recurrence_month_pattern_by_day">"samana päiv. joka kk"</string>
+    <string msgid="2133599104834432589" name="save_label">"Valmis"</string>
+    <string msgid="3973338219107019769" name="select_day">"Valitse kuukausi ja päivä"</string>
+    <string msgid="7651068754188418859" name="select_hours">"Valitse tunnit"</string>
+    <string msgid="8327182090226828481" name="select_minutes">"Valitse minuutit"</string>
+    <string msgid="2603330600102539372" name="select_year">"Valitse vuosi"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="6963340404644587098" name="year_picker_description">"Vuosiluettelo"</string>
+</resources>

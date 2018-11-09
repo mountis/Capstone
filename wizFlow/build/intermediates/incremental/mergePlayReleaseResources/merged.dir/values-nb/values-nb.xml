@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="availability">
+    <item msgid="454869065893453189">"Opptatt"</item>
+    <item msgid="6228387173725732140">"Tilgjengelig"</item>
+    <item msgid="2064426942462573474">"Kanskje"</item>
+  </string-array>
+    <string-array name="buttons_list">
+    <item msgid="5917946202321434335">"Dag"</item>
+    <item msgid="6248480754959562740">"Uke"</item>
+    <item msgid="4298472806133153766">"Måned"</item>
+    <item msgid="5033084974413793845">"Agenda"</item>
+  </string-array>
+    <string-array name="change_response_labels">
+    <item msgid="3466644709343519437">"Bare denne aktiviteten"</item>
+    <item msgid="140670561403965380">"Alle hendelser i serien"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels">
+    <item msgid="4208432367651646938">"Bare denne hendelsen"</item>
+    <item msgid="1536401639805370405">"Denne og fremtidige aktiviteter"</item>
+    <item msgid="7833229563617435430">"Alle hendelser"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+    <item msgid="1341910309321756150">"Denne og framtidige hendelser"</item>
+    <item msgid="6315440193748139854">"Alle hendelser"</item>
+  </string-array>
+    <string-array name="ordinal_labels">
+    <item msgid="2693927956303125332">"første"</item>
+    <item msgid="5631923029483854900">"andre"</item>
+    <item msgid="148935502975250973">"tredje"</item>
+    <item msgid="5124200797326669172">"fjerde"</item>
+    <item msgid="7564374178324652137">"siste"</item>
+  </string-array>
+    <string-array name="preferences_default_reminder_labels">
+    <item msgid="7495163916242649023">"Ingen"</item>
+    <item msgid="5883344836499335043">"0 minutter"</item>
+    <item msgid="4354350447805231188">"1 minutt"</item>
+    <item msgid="265674592625309858">"5 minutter"</item>
+    <item msgid="8011089417728419666">"10 minutter"</item>
+    <item msgid="6177098581805412986">"15 minutter"</item>
+    <item msgid="356346660503078923">"20 minutter"</item>
+    <item msgid="992592434377054063">"25 minutter"</item>
+    <item msgid="9191353668596201944">"30 minutter"</item>
+    <item msgid="1192985682962908244">"45 minutter"</item>
+    <item msgid="1694315499429259938">"1 time"</item>
+    <item msgid="8281019320591769635">"2 timer"</item>
+    <item msgid="2062931719019287773">"3 timer"</item>
+    <item msgid="4086495711621133006">"12 timer"</item>
+    <item msgid="3172669681920709561">"1 døgn"</item>
+    <item msgid="5557836606782821910">"2 dager"</item>
+    <item msgid="8336577387266744930">"1 uke"</item>
+  </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+    <item msgid="2285927842308686988">"Bare hvis avvist"</item>
+    <item msgid="6367412240524984286">"Hvis avvist eller ikke svart på"</item>
+  </string-array>
+    <string-array name="preferences_week_start_day_labels">
+    <item msgid="986150274035512339">"Språkstandard"</item>
+    <item msgid="134027225275475280">"Lørdag"</item>
+    <item msgid="95029346069903091">"Søndag"</item>
+    <item msgid="5840983116375063739">"Mandag"</item>
+  </string-array>
+    <string-array name="recurrence_freq">
+    <item msgid="3388478383574917007">"GJENTA DAGLIG"</item>
+    <item msgid="6300824484048337842">"GJENTA UKENTLIG"</item>
+    <item msgid="189361731610816256">"GJENTA MÅNEDLIG"</item>
+    <item msgid="8714177874112569158">"GJENTA ÅRLIG"</item>
+  </string-array>
+    <string-array name="reminder_methods_labels">
+    <item msgid="5172236776878811487">"Varsel"</item>
+    <item msgid="1751151680520784746">"E-post"</item>
+    <item msgid="2658001219380695677">"Tekstmelding"</item>
+    <item msgid="7926918288165444873">"Alarm"</item>
+  </string-array>
+    <string-array name="reminder_minutes_labels">
+    <item msgid="2416970002377237011">"0 minutter"</item>
+    <item msgid="6681865010714743948">"1 minutt"</item>
+    <item msgid="2327505114623595779">"5 minutter"</item>
+    <item msgid="1657410063332547113">"10 minutter"</item>
+    <item msgid="366087535181197780">"15 minutter"</item>
+    <item msgid="6252612791145061929">"20 minutter"</item>
+    <item msgid="7896694531989090700">"25 minutter"</item>
+    <item msgid="8754510169374808607">"30 minutter"</item>
+    <item msgid="3113380274218454394">"45 minutter"</item>
+    <item msgid="8546646645868526283">"1 time"</item>
+    <item msgid="6467845211024768872">"To timer"</item>
+    <item msgid="8201677619511076575">"3 timer"</item>
+    <item msgid="7172504281650128893">"12 timer"</item>
+    <item msgid="9114286702181482496">"1 døgn"</item>
+    <item msgid="3107009344872997366">"2 dager"</item>
+    <item msgid="6135563708172153696">"1 uke"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_fri">
+    <item msgid="6534500380525126157">"hver første fredag i måneden"</item>
+    <item msgid="1935608297230506940">"hver andre fredag i måneden"</item>
+    <item msgid="4061877662049317599">"hver tredje fredag i måneden"</item>
+    <item msgid="6856646749131820614">"hver fjerde fredag i måneden"</item>
+    <item msgid="6533513913914859794">"hver siste fredag i måneden"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_mon">
+    <item msgid="7539974918997689048">"hver første mandag i måneden"</item>
+    <item msgid="4484275849072423978">"hver andre mandag i måneden"</item>
+    <item msgid="8956169860824371383">"hver tredje mandag i måneden"</item>
+    <item msgid="6924403357659569326">"hver fjerde mandag i måneden"</item>
+    <item msgid="1379608815263472161">"hver siste mandag i måneden"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sat">
+    <item msgid="3556369572649948699">"hver første lørdag i måneden"</item>
+    <item msgid="9130198690512925355">"hver andre lørdag i måneden"</item>
+    <item msgid="4525736070844032405">"hver tredje lørdag i måneden"</item>
+    <item msgid="422053689531707709">"hver fjerde lørdag i måneden"</item>
+    <item msgid="5499975799312474425">"hver siste lørdag i måneden"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sun">
+    <item msgid="143841313172233420">"hver første søndag i måneden"</item>
+    <item msgid="2557379346106451363">"hver andre søndag i måneden"</item>
+    <item msgid="7622144489915654132">"hver tredje søndag i måneden"</item>
+    <item msgid="527152448137686021">"hver fjerde søndag i måneden"</item>
+    <item msgid="5057483608824759350">"hver siste søndag i måneden"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_thurs">
+    <item msgid="920673677566009313">"hver første torsdag i måneden"</item>
+    <item msgid="4857419136007543270">"hver andre torsdag i måneden"</item>
+    <item msgid="222044587450564839">"hver tredje torsdag i måneden"</item>
+    <item msgid="6197927556533030945">"hver fjerde torsdag i måneden"</item>
+    <item msgid="1023326923033436905">"hver siste torsdag i måneden"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_tues">
+    <item msgid="8690802834039790777">"hver første tirsdag i måneden"</item>
+    <item msgid="9063613547307760928">"hver andre tirsdag i måneden"</item>
+    <item msgid="6688603328729208168">"hver tredje tirsdag i måneden"</item>
+    <item msgid="6695206006961533357">"hver fjerde tirsdag i måneden"</item>
+    <item msgid="8619069174889809914">"hver siste tirsdag i måneden"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_wed">
+    <item msgid="3233850232075584386">"hver første onsdag i måneden"</item>
+    <item msgid="5059722045367799217">"hver andre onsdag i måneden"</item>
+    <item msgid="7986246648229272275">"hver tredje onsdag i måneden"</item>
+    <item msgid="9068566169348980801">"hver fjerde onsdag i måneden"</item>
+    <item msgid="7976866743069062134">"hver siste onsdag i måneden"</item>
+  </string-array>
+    <string-array name="response_labels1">
+    <item msgid="5605392595848194997">"Ingen svar"</item>
+    <item msgid="3724434080904437698">"Ja"</item>
+    <item msgid="8854145743148992583">"Kanskje"</item>
+    <item msgid="6174292185978948873">"Nei"</item>
+  </string-array>
+    <string-array name="visibility">
+    <item msgid="3035788428581513163">"Standard"</item>
+    <item msgid="5200216103966973369">"Privat"</item>
+    <item msgid="9182342638433672664">"Offentlig"</item>
+  </string-array>
+    <plurals name="recurrence_end_count">
+    <item msgid="1400782968090516215" quantity="one">"For <ns1:g id="EVENT_COUNT">%d</ns1:g> aktivitet"</item>
+    <item msgid="8779598489398048259" quantity="other">"For <ns1:g id="EVENT_COUNT">%d</ns1:g> aktiviteter"</item>
+  </plurals>
+    <plurals name="recurrence_interval_daily">
+    <item msgid="1205422710088692631" quantity="one">"Hver <ns1:g id="COUNT">%d</ns1:g>. dag"</item>
+    <item msgid="707566499994398250" quantity="other">"Hver <ns1:g id="COUNT">%d</ns1:g>. dag"</item>
+  </plurals>
+    <plurals name="recurrence_interval_monthly">
+    <item msgid="4768178401603139718" quantity="one">"Hver <ns1:g id="COUNT">%d</ns1:g>. måned"</item>
+    <item msgid="5419723710346646523" quantity="other">"Hver <ns1:g id="COUNT">%d</ns1:g>. måned"</item>
+  </plurals>
+    <plurals name="recurrence_interval_weekly">
+    <item msgid="4948681635464488351" quantity="one">"Hver <ns1:g id="COUNT">%d</ns1:g>. uke"</item>
+    <item msgid="7094801039989237061" quantity="other">"Hver <ns1:g id="COUNT">%d</ns1:g>. uke"</item>
+  </plurals>
+    <plurals name="recurrence_interval_yearly">
+    <item msgid="5819562634008179102" quantity="one">"Hvert <ns1:g id="COUNT">%d</ns1:g>. år"</item>
+    <item msgid="5678653649746562060" quantity="other">"Hvert <ns1:g id="COUNT">%d</ns1:g>. år"</item>
+  </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Gå til startsiden"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s – %2$s – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Gå opp"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere alternativer"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Ferdig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Velg en app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"AV"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"PÅ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Søk …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Slett søket"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søkeord"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søk"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Utfør søket"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøk"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string msgid="5899029840837836711" name="acessibility_recurrence_choose_end_date_description">"endre sluttdato"</string>
+    <string msgid="3968620852217927702" name="day_picker_description">"Månedsrutenett med dager"</string>
+    <string msgid="6908431551612331381" name="deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> er slettet"</string>
+    <string msgid="7007948707597430919" name="done_label">"Ferdig"</string>
+    <string msgid="4808253965057791781" name="email_picker_label">"E-post med"</string>
+    <string msgid="7586639618712934060" name="hour_picker_description">"Sirkulær glidebryter for timer"</string>
+    <string msgid="2674929164900463786" name="item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> er valgt"</string>
+    <string msgid="6024811202872705251" name="minute_picker_description">"Sirkulær glidebryter for minutter"</string>
+    <string msgid="8093909645557717483" name="recurrence_dialog_title">"Gjenta"</string>
+    <string msgid="2679396029776590130" name="recurrence_dialog_title_never">"Gjentas aldri"</string>
+    <string msgid="6898950241634912991" name="recurrence_end_continously">"For alltid"</string>
+    <string msgid="1233883668293087977" name="recurrence_end_count_label">"For en rekke aktiviteter"</string>
+    <string msgid="3693751578164711701" name="recurrence_end_date">"Til <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="4142791438636994952" name="recurrence_end_date_label">"inntil en gitt dato"</string>
+    <string msgid="4400107556121003459" name="recurrence_month_pattern_by_day">"på samme dag hver måned"</string>
+    <string msgid="2133599104834432589" name="save_label">"OK"</string>
+    <string msgid="3973338219107019769" name="select_day">"Velg måneden og dagen"</string>
+    <string msgid="7651068754188418859" name="select_hours">"Angi timer"</string>
+    <string msgid="8327182090226828481" name="select_minutes">"Angi minutter"</string>
+    <string msgid="2603330600102539372" name="select_year">"Velg året"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="6963340404644587098" name="year_picker_description">"Årsliste"</string>
+</resources>

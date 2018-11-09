@@ -1,0 +1,323 @@
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\55576b89a5276928ed42de0ad7916afe\res\layout\design_navigation_item.xml:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\55576b89a5276928ed42de0ad7916afe\res\layout\design_navigation_menu.xml:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\55576b89a5276928ed42de0ad7916afe\res\layout\design_bottom_sheet_dialog.xml:17
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_detail.xml:77
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_detail.xml:148
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_list.xml:117
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\55576b89a5276928ed42de0ad7916afe\res\layout-sw600dp-v13\design_layout_snackbar.xml:18
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\55576b89a5276928ed42de0ad7916afe\res\layout\design_layout_snackbar.xml:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appintro-1.3.0.aar\20e3ea64b3238646b3ab4edb8ce68659\res\layout-v21\intro_layout.xml:5
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appintro-1.3.0.aar\20e3ea64b3238646b3ab4edb8ce68659\res\layout-v21\intro_layout2.xml:6
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appintro-1.3.0.aar\20e3ea64b3238646b3ab4edb8ce68659\res\layout\intro_layout.xml:5
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appintro-1.3.0.aar\20e3ea64b3238646b3ab4edb8ce68659\res\layout\intro_layout2.xml:6
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\activity_main.xml:7
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_alert_dialog_material.xml:77
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_alert_dialog_button_bar_material.xml:42
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_popup_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_action_mode_bar.xml:19
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_screen_toolbar.xml:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_alert_dialog_button_bar_material.xml:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_alert_dialog_material.xml:50
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_dialog_title_material.xml:22
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_screen_simple.xml:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_search_view.xml:80
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_screen_toolbar.xml:36
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\toolbar.xml:4
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_screen_simple.xml:25
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\bc222b263f4259eceebe8cbf360448cd\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\52a6a508c742e1ee261c9970821b6797\res\layout\recurrencepicker.xml:125
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\52a6a508c742e1ee261c9970821b6797\res\layout\recurrencepicker.xml:152
+-keep class be.billington.calendar.recurrencepicker.LinearLayoutWithMaxWidth { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\52a6a508c742e1ee261c9970821b6797\res\layout\recurrencepicker.xml:137
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\52a6a508c742e1ee261c9970821b6797\res\layout\recurrencepicker.xml:139
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\52a6a508c742e1ee261c9970821b6797\res\layout\recurrencepicker.xml:141
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\52a6a508c742e1ee261c9970821b6797\res\layout\recurrencepicker.xml:143
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\52a6a508c742e1ee261c9970821b6797\res\layout\recurrencepicker.xml:145
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\52a6a508c742e1ee261c9970821b6797\res\layout\recurrencepicker.xml:147
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\52a6a508c742e1ee261c9970821b6797\res\layout\recurrencepicker.xml:149
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\52a6a508c742e1ee261c9970821b6797\res\layout\recurrencepicker.xml:164
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\52a6a508c742e1ee261c9970821b6797\res\layout\recurrencepicker.xml:166
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\52a6a508c742e1ee261c9970821b6797\res\layout\recurrencepicker.xml:168
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\52a6a508c742e1ee261c9970821b6797\res\layout\recurrencepicker.xml:170
+-keep class be.billington.calendar.recurrencepicker.WeekButton { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\commons-0.8.5.6.aar\91a5233dcea2ff706e2d41afadb1ac73\res\layout\md_stub_colorchooser_grid.xml:2
+-keep class com.afollestad.materialdialogs.color.FillGridView { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\b2f6043c5974b232a941a8df94953780\res\layout\md_stub_actionbuttons.xml:5
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\b2f6043c5974b232a941a8df94953780\res\layout\md_stub_actionbuttons.xml:10
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\b2f6043c5974b232a941a8df94953780\res\layout\md_stub_actionbuttons.xml:17
+-keep class com.afollestad.materialdialogs.internal.MDButton { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\b2f6043c5974b232a941a8df94953780\res\layout\md_dialog_basic.xml:1
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\b2f6043c5974b232a941a8df94953780\res\layout\md_dialog_custom.xml:1
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\b2f6043c5974b232a941a8df94953780\res\layout\md_dialog_input.xml:1
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\b2f6043c5974b232a941a8df94953780\res\layout\md_dialog_list.xml:1
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\b2f6043c5974b232a941a8df94953780\res\layout\md_dialog_progress.xml:1
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\b2f6043c5974b232a941a8df94953780\res\layout\md_dialog_progress_indeterminate.xml:1
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\b2f6043c5974b232a941a8df94953780\res\layout\md_dialog_progress_indeterminate_horizontal.xml:1
+-keep class com.afollestad.materialdialogs.internal.MDRootLayout { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-0.0.2.aar\5253a94ec96973c2c4dbe7561bb3e76c\res\layout\date_picker_view_animator.xml:2
+-keep class com.fourmob.datetimepicker.date.AccessibleDateAnimator { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-0.0.2.aar\5253a94ec96973c2c4dbe7561bb3e76c\res\layout\year_label_text_view.xml:2
+-keep class com.fourmob.datetimepicker.date.TextViewWithCircularIndicator { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fab.xml:20
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fab.xml:30
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fab.xml:40
+-keep class com.getbase.floatingactionbutton.FloatingActionButton { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fab.xml:4
+-keep class com.getbase.floatingactionbutton.FloatingActionsMenu { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:312
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:317
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\popup_sketch_stroke.xml:39
+-keep class com.larswerkman.holocolorpicker.ColorPicker { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\popup_sketch_stroke.xml:65
+-keep class com.larswerkman.holocolorpicker.OpacityBar { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\popup_sketch_stroke.xml:53
+-keep class com.larswerkman.holocolorpicker.SVBar { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_detail.xml:53
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_detail_content.xml:34
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\password_request_dialog_layout.xml:9
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\password_reset_dialog_layout.xml:9
+-keep class com.neopixl.pixlui.components.edittext.EditText { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\activity_password.xml:22
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\activity_password.xml:50
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\attachment_dialog.xml:10
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\attachment_dialog.xml:27
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\attachment_dialog.xml:44
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\attachment_dialog.xml:61
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\attachment_dialog.xml:78
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\attachment_dialog.xml:95
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\attachment_dialog.xml:112
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\attachment_dialog.xml:129
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\drawer_category_list_footer.xml:17
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\drawer_category_list_header.xml:11
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\drawer_list_item.xml:21
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_detail.xml:124
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_detail.xml:134
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_detail_content.xml:12
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_detail_content.xml:73
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_list.xml:76
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_navigation_drawer.xml:25
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\gridview_item.xml:17
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\image_and_text_item.xml:16
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\note_layout.xml:41
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\note_layout.xml:97
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\note_layout.xml:107
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\note_layout_expanded.xml:39
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\note_layout_expanded.xml:48
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\note_layout_expanded.xml:66
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\rate_app_dialog_layout.xml:11
+-keep class com.neopixl.pixlui.components.textview.TextView { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_list.xml:49
+-keep class com.nhaarman.listviewanimations.itemmanipulation.DynamicListView { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:296
+-keep class com.nhaarman.listviewanimations.itemmanipulation.dragdrop.DynamicListViewTestActivity { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:295
+-keep class com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.SwipeTouchListenerTestActivity { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_list.xml:91
+-keep class com.pnikosis.materialishprogress.ProgressWheel { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-0.0.2.aar\5253a94ec96973c2c4dbe7561bb3e76c\res\layout\time_header_label.xml:54
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-0.0.2.aar\5253a94ec96973c2c4dbe7561bb3e76c\res\layout\time_header_label.xml:103
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-0.0.2.aar\5253a94ec96973c2c4dbe7561bb3e76c\res\layout\time_header_label.xml:112
+-keep class com.sleepbot.datetimepicker.AccessibleTextView { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-0.0.2.aar\5253a94ec96973c2c4dbe7561bb3e76c\res\layout-land\time_picker_dialog.xml:65
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\library-0.0.2.aar\5253a94ec96973c2c4dbe7561bb3e76c\res\layout\time_picker_dialog.xml:35
+-keep class com.sleepbot.datetimepicker.time.RadialPickerLayout { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:297
+-keep class com.tbruyelle.rxpermissions.ShadowActivity { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:115
+-keep class developer.elkane.udacity.wizflow.CategoryActivity { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\xml\settings_interface.xml:12
+-keep class developer.elkane.udacity.wizflow.FontSizeListPreference { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:110
+-keep class developer.elkane.udacity.wizflow.GalleryActivity { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:60
+-keep class developer.elkane.udacity.wizflow.MainActivity { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\activity_main.xml:43
+-keep class developer.elkane.udacity.wizflow.NavigationDrawerFragment { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:166
+-keep class developer.elkane.udacity.wizflow.NoteInfosActivity { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:137
+-keep class developer.elkane.udacity.wizflow.PasswordActivity { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:126
+-keep class developer.elkane.udacity.wizflow.SettingsActivity { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:154
+-keep class developer.elkane.udacity.wizflow.ShortcutActivity { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:146
+-keep class developer.elkane.udacity.wizflow.SnoozeActivity { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:163
+-keep class developer.elkane.udacity.wizflow.StatsActivity { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:44
+-keep class developer.elkane.udacity.wizflow.WizFlow { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:194
+-keep class developer.elkane.udacity.wizflow.async.AlarmRestoreOnRebootService { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:207
+-keep class developer.elkane.udacity.wizflow.async.DataBackupIntentService { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:252
+-keep class developer.elkane.udacity.wizflow.extensions.ONDashClockExtension { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:271
+-keep class developer.elkane.udacity.wizflow.extensions.PushBulletExtension { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_detail_attachments.xml:18
+-keep class developer.elkane.udacity.wizflow.models.views.ExpandableHeightGridView { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\activity_gallery.xml:1
+-keep class developer.elkane.udacity.wizflow.models.views.InterceptorFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_list.xml:11
+-keep class developer.elkane.udacity.wizflow.models.views.InterceptorLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_navigation_drawer.xml:40
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_navigation_drawer.xml:55
+-keep class developer.elkane.udacity.wizflow.models.views.NonScrollableListView { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\fragment_sketch.xml:88
+-keep class developer.elkane.udacity.wizflow.models.views.SketchView { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\gridview_item.xml:9
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\note_layout_expanded.xml:112
+-keep class developer.elkane.udacity.wizflow.models.views.SquareImageView { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:179
+-keep class developer.elkane.udacity.wizflow.receiver.AlarmReceiver { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:182
+-keep class developer.elkane.udacity.wizflow.receiver.BootCompleteReceiver { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:197
+-keep class developer.elkane.udacity.wizflow.services.NotificationListener { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:233
+-keep class developer.elkane.udacity.wizflow.widget.ListWidgetProvider { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:247
+-keep class developer.elkane.udacity.wizflow.widget.ListWidgetService { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:219
+-keep class developer.elkane.udacity.wizflow.widget.SimpleWidgetProvider { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:210
+-keep class developer.elkane.udacity.wizflow.widget.WidgetConfigurationActivity { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:302
+-keep class io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:308
+-keep class io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:305
+-keep class io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\checklistview-3.2.1.aar\4e6737ec52b4ec717d4ec277eb2b3c27\res\layout\checklistview_item.xml:19
+-keep class it.feio.android.checklistview.widgets.EditTextMultiLineNoEnter { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\src\main\res\layout\activity_gallery.xml:10
+-keep class it.feio.android.simplegallery.views.GalleryViewPager { <init>(...); }
+
+# Referenced at C:\Users\mount\.gradle\caches\transforms-1\files-1.1\SimpleGallery-2.0.0.aar\c655c6b4333741cbc89dacf93fe613b9\res\layout\fragment_screen_slide_page.xml:5
+-keep class it.feio.android.simplegallery.views.TouchImageView { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:171
+-keep class org.acra.CrashReportDialog { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:283
+-keep class org.acra.dialog.CrashReportDialog { <init>(...); }
+
+# Referenced at C:\Users\mount\AndroidStudioProjects\WizFlow\wizFlow\build\intermediates\manifests\full\play\release\AndroidManifest.xml:290
+-keep class org.acra.sender.SenderService { <init>(...); }
+

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="availability">
+    <item msgid="454869065893453189">"Zauzet"</item>
+    <item msgid="6228387173725732140">"Dostupan"</item>
+    <item msgid="2064426942462573474">"Privremena"</item>
+  </string-array>
+    <string-array name="buttons_list">
+    <item msgid="5917946202321434335">"Dan"</item>
+    <item msgid="6248480754959562740">"Tjedan"</item>
+    <item msgid="4298472806133153766">"Mjesec"</item>
+    <item msgid="5033084974413793845">"Raspored"</item>
+  </string-array>
+    <string-array name="change_response_labels">
+    <item msgid="3466644709343519437">"Samo ovaj događaj"</item>
+    <item msgid="140670561403965380">"Svi događaji u nizu"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels">
+    <item msgid="4208432367651646938">"Samo ovaj događaj"</item>
+    <item msgid="1536401639805370405">"Ovaj i budući događaji"</item>
+    <item msgid="7833229563617435430">"Svi događaji"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+    <item msgid="1341910309321756150">"Ovaj i budući događaji"</item>
+    <item msgid="6315440193748139854">"Svi događaji"</item>
+  </string-array>
+    <string-array name="ordinal_labels">
+    <item msgid="2693927956303125332">"prvo"</item>
+    <item msgid="5631923029483854900">"drugi"</item>
+    <item msgid="148935502975250973">"treće"</item>
+    <item msgid="5124200797326669172">"četvrto"</item>
+    <item msgid="7564374178324652137">"posljednje"</item>
+  </string-array>
+    <string-array name="preferences_default_reminder_labels">
+    <item msgid="7495163916242649023">"Ništa"</item>
+    <item msgid="5883344836499335043">"0 minuta"</item>
+    <item msgid="4354350447805231188">"1 minuta"</item>
+    <item msgid="265674592625309858">"5 minuta"</item>
+    <item msgid="8011089417728419666">"10 minuta"</item>
+    <item msgid="6177098581805412986">"15 minuta"</item>
+    <item msgid="356346660503078923">"20 minuta"</item>
+    <item msgid="992592434377054063">"25 minuta"</item>
+    <item msgid="9191353668596201944">"30 minuta"</item>
+    <item msgid="1192985682962908244">"45 minuta"</item>
+    <item msgid="1694315499429259938">"1 sat"</item>
+    <item msgid="8281019320591769635">"2 sata"</item>
+    <item msgid="2062931719019287773">"3 sata"</item>
+    <item msgid="4086495711621133006">"12 sati"</item>
+    <item msgid="3172669681920709561">"24 sata"</item>
+    <item msgid="5557836606782821910">"2 dana"</item>
+    <item msgid="8336577387266744930">"1 tjedan"</item>
+  </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+    <item msgid="2285927842308686988">"Samo ako je odbijeno"</item>
+    <item msgid="6367412240524984286">"Ako je odbijeno ili nema odgovora"</item>
+  </string-array>
+    <string-array name="preferences_week_start_day_labels">
+    <item msgid="986150274035512339">"Zadana oznaka zemlje"</item>
+    <item msgid="134027225275475280">"Subota"</item>
+    <item msgid="95029346069903091">"Nedjelja"</item>
+    <item msgid="5840983116375063739">"Ponedjeljak"</item>
+  </string-array>
+    <string-array name="recurrence_freq">
+    <item msgid="3388478383574917007">"DNEVNO PONAVLJANJE"</item>
+    <item msgid="6300824484048337842">"PONAVLJAJ TJEDNO"</item>
+    <item msgid="189361731610816256">"PONAVLJAJ MJESEČNO"</item>
+    <item msgid="8714177874112569158">"PONAVLJAJ GODIŠNJE"</item>
+  </string-array>
+    <string-array name="reminder_methods_labels">
+    <item msgid="5172236776878811487">"Obavijest"</item>
+    <item msgid="1751151680520784746">"E-pošta"</item>
+    <item msgid="2658001219380695677">"SMS"</item>
+    <item msgid="7926918288165444873">"Alarm"</item>
+  </string-array>
+    <string-array name="reminder_minutes_labels">
+    <item msgid="2416970002377237011">"0 minuta"</item>
+    <item msgid="6681865010714743948">"1 minuta"</item>
+    <item msgid="2327505114623595779">"5 minuta"</item>
+    <item msgid="1657410063332547113">"10 minuta"</item>
+    <item msgid="366087535181197780">"15 minuta"</item>
+    <item msgid="6252612791145061929">"20 minuta"</item>
+    <item msgid="7896694531989090700">"25 minuta"</item>
+    <item msgid="8754510169374808607">"30 minuta"</item>
+    <item msgid="3113380274218454394">"45 minuta"</item>
+    <item msgid="8546646645868526283">"1 sat"</item>
+    <item msgid="6467845211024768872">"2 sata"</item>
+    <item msgid="8201677619511076575">"3 sata"</item>
+    <item msgid="7172504281650128893">"12 sati"</item>
+    <item msgid="9114286702181482496">"24 sata"</item>
+    <item msgid="3107009344872997366">"2 dana"</item>
+    <item msgid="6135563708172153696">"1 tjedan"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_fri">
+    <item msgid="6534500380525126157">"svakog prvog petka"</item>
+    <item msgid="1935608297230506940">"svakog drugog petka"</item>
+    <item msgid="4061877662049317599">"svakog trećeg petka"</item>
+    <item msgid="6856646749131820614">"svakog četvrtog petka"</item>
+    <item msgid="6533513913914859794">"svakog zadnjeg petka"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_mon">
+    <item msgid="7539974918997689048">"svakog prvog ponedjeljka"</item>
+    <item msgid="4484275849072423978">"svakog drugog ponedjeljka"</item>
+    <item msgid="8956169860824371383">"svakog trećeg ponedjeljka"</item>
+    <item msgid="6924403357659569326">"svakog četvrtog ponedjeljka"</item>
+    <item msgid="1379608815263472161">"svakog zadnjeg ponedjeljka"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sat">
+    <item msgid="3556369572649948699">"svake prve subote"</item>
+    <item msgid="9130198690512925355">"svake druge subote"</item>
+    <item msgid="4525736070844032405">"svake treće subote"</item>
+    <item msgid="422053689531707709">"svake četvrte subote"</item>
+    <item msgid="5499975799312474425">"svake zadnje subote"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sun">
+    <item msgid="143841313172233420">"svake prve nedjelje"</item>
+    <item msgid="2557379346106451363">"svake druge nedjelje"</item>
+    <item msgid="7622144489915654132">"svake treće nedjelje"</item>
+    <item msgid="527152448137686021">"svake četvrte nedjelje"</item>
+    <item msgid="5057483608824759350">"svake zadnje nedjelje"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_thurs">
+    <item msgid="920673677566009313">"svakog prvog četvrtka"</item>
+    <item msgid="4857419136007543270">"svakog drugog četvrtka"</item>
+    <item msgid="222044587450564839">"svakog trećeg četvrtka"</item>
+    <item msgid="6197927556533030945">"svakog četvrtog četvrtka"</item>
+    <item msgid="1023326923033436905">"svakog zadnjeg četvrtka"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_tues">
+    <item msgid="8690802834039790777">"svakog prvog utorka"</item>
+    <item msgid="9063613547307760928">"svakog drugog utorka"</item>
+    <item msgid="6688603328729208168">"svakog trećeg utorka"</item>
+    <item msgid="6695206006961533357">"svakog četvrtog utorka"</item>
+    <item msgid="8619069174889809914">"svakog zadnjeg utorka"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_wed">
+    <item msgid="3233850232075584386">"svake prve srijede"</item>
+    <item msgid="5059722045367799217">"svake druge srijede"</item>
+    <item msgid="7986246648229272275">"svake treće srijede"</item>
+    <item msgid="9068566169348980801">"svake četvrte srijede"</item>
+    <item msgid="7976866743069062134">"svake zadnje srijede"</item>
+  </string-array>
+    <string-array name="response_labels1">
+    <item msgid="5605392595848194997">"Nema odgovora"</item>
+    <item msgid="3724434080904437698">"Da"</item>
+    <item msgid="8854145743148992583">"Možda"</item>
+    <item msgid="6174292185978948873">"Ne"</item>
+  </string-array>
+    <string-array name="visibility">
+    <item msgid="3035788428581513163">"Zadano"</item>
+    <item msgid="5200216103966973369">"Privatno"</item>
+    <item msgid="9182342638433672664">"Javno"</item>
+  </string-array>
+    <plurals name="recurrence_end_count">
+    <item msgid="1400782968090516215" quantity="one">"Za ovoliko događaja: <ns1:g id="EVENT_COUNT">%d</ns1:g>"</item>
+    <item msgid="8779598489398048259" quantity="other">"Za ovoliko događaja: <ns1:g id="EVENT_COUNT">%d</ns1:g>"</item>
+  </plurals>
+    <plurals name="recurrence_interval_daily">
+    <item msgid="1205422710088692631" quantity="one">"Svakog <ns1:g id="COUNT">%d</ns1:g>. dana"</item>
+    <item msgid="707566499994398250" quantity="other">"Svakog <ns1:g id="COUNT">%d</ns1:g>. dana"</item>
+  </plurals>
+    <plurals name="recurrence_interval_monthly">
+    <item msgid="4768178401603139718" quantity="one">"Svakog <ns1:g id="COUNT">%d</ns1:g>. mjeseca"</item>
+    <item msgid="5419723710346646523" quantity="other">"Svakog <ns1:g id="COUNT">%d</ns1:g>. mjeseca"</item>
+  </plurals>
+    <plurals name="recurrence_interval_weekly">
+    <item msgid="4948681635464488351" quantity="one">"Svakog <ns1:g id="COUNT">%d</ns1:g>. tjedna"</item>
+    <item msgid="7094801039989237061" quantity="other">"Svakog <ns1:g id="COUNT">%d</ns1:g>. tjedna"</item>
+  </plurals>
+    <plurals name="recurrence_interval_yearly">
+    <item msgid="5819562634008179102" quantity="one">"Svake <ns1:g id="COUNT">%d</ns1:g>. godine"</item>
+    <item msgid="5678653649746562060" quantity="other">"Svake <ns1:g id="COUNT">%d</ns1:g>. godine"</item>
+  </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Idi na početnu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Idi gore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Dodatne opcije"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Odabir aplikacije"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ISKLJUČENO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"UKLJUČENO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pretražite…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Izbriši upit"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Upit za pretraživanje"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pretraživanje"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pošalji upit"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dijeljenje sa"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dijeljenje sa: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sažmi"</string>
+    <string msgid="5899029840837836711" name="acessibility_recurrence_choose_end_date_description">"promjena datuma završetka"</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> zahtijeva jednu ili više usluga Google Playa koje trenutačno nisu dostupne. Za pomoć se obratite razvojnom programeru."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Omogući usluge za Google Play"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće funkcionirati ako ne omogućite usluge Google Playa."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Omogućivanje usluga Google Playa"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Preuzmi usluge Google Playa"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće funkcionirati bez usluga Google Playa koje nisu instalirane na vašem telefonu."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće funkcionirati bez usluga Google Playa koje nisu instalirane na vašem tabletu."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Preuzimanje usluga Google Playa"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"Navedeni račun ne postoji na ovom uređaju. Odaberite neki drugi račun."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Nevažeći račun"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Potrebna je podatkovna veza za povezivanje s uslugama Google Playa."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Mrežna pogreška"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Pogreška Usluga za Google Play"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Izvršite radnju koju zahtijeva aplikacija <ns1:g id="APP_NAME">%1$s</ns1:g>."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Usluge Google Playa zahtijevaju radnju"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"Pristupanje računima iz ograničenog profila nije dopušteno."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Ograničeni profil"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Pogreška prilikom prijave na navedeni račun. Odaberite neki drugi račun."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Prijava nije uspjela"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ima poteškoća s uslugama Google Playa. Ako se problem ponovi, tražite pomoć od razvojnog programera."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> radi na temelju usluga Google Playa koje vaš uređaj ne podržava. Za pomoć se obratite proizvođaču."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Usluge za Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Ažuriraj"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće funkcionirati ako ne ažurirate Google Play usluge."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Ažuriranje usluga Google Playa"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> neće se pokrenuti bez usluga Google Playa koje se trenutačno ažuriraju."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Ažuriranje usluga Google Playa u tijeku"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Potrebna je nova verzija usluga Google Playa. Uskoro će se ažurirati."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otvori na telefonu"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Prijava"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Prijava putem Googlea"</string>
+    <string msgid="3968620852217927702" name="day_picker_description">"Mreža dana u mjesecu"</string>
+    <string msgid="6908431551612331381" name="deleted_key">"Izbrisan je znak <ns1:g id="KEY">%1$s</ns1:g>"</string>
+    <string msgid="7007948707597430919" name="done_label">"Gotovo"</string>
+    <string msgid="4808253965057791781" name="email_picker_label">"Obavijesti e-poštom"</string>
+    <string msgid="7586639618712934060" name="hour_picker_description">"Kružni klizač sati"</string>
+    <string msgid="2674929164900463786" name="item_is_selected">"Odabrana je stavka <ns1:g id="ITEM">%1$s</ns1:g>"</string>
+    <string msgid="6024811202872705251" name="minute_picker_description">"Kružni klizač minuta"</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Brisanje pretraživanja"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Pretražite"</string>
+    <string msgid="8093909645557717483" name="recurrence_dialog_title">"Ponovi"</string>
+    <string msgid="2679396029776590130" name="recurrence_dialog_title_never">"Ne ponavlja se nikad"</string>
+    <string msgid="6898950241634912991" name="recurrence_end_continously">"Zauvijek"</string>
+    <string msgid="1233883668293087977" name="recurrence_end_count_label">"Za ovoliko događaja"</string>
+    <string msgid="3693751578164711701" name="recurrence_end_date">"Do <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="4142791438636994952" name="recurrence_end_date_label">"Do datuma"</string>
+    <string msgid="4400107556121003459" name="recurrence_month_pattern_by_day">"na isti dan svakog mjeseca"</string>
+    <string msgid="2133599104834432589" name="save_label">"Gotovo"</string>
+    <string msgid="3973338219107019769" name="select_day">"Odaberite mjesec i dan"</string>
+    <string msgid="7651068754188418859" name="select_hours">"Odaberite sate"</string>
+    <string msgid="8327182090226828481" name="select_minutes">"Odaberite minute"</string>
+    <string msgid="2603330600102539372" name="select_year">"Odaberite godinu"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="6963340404644587098" name="year_picker_description">"Popis godina"</string>
+</resources>

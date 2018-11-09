@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="availability">
+    <item msgid="454869065893453189">"Bezet"</item>
+    <item msgid="6228387173725732140">"Beschikbaar"</item>
+    <item msgid="2064426942462573474">"Voorlopig"</item>
+  </string-array>
+    <string-array name="buttons_list">
+    <item msgid="5917946202321434335">"Dag"</item>
+    <item msgid="6248480754959562740">"Week"</item>
+    <item msgid="4298472806133153766">"Maand"</item>
+    <item msgid="5033084974413793845">"Agenda"</item>
+  </string-array>
+    <string-array name="change_response_labels">
+    <item msgid="3466644709343519437">"Alleen deze afspraak"</item>
+    <item msgid="140670561403965380">"Alle gebeurtenissen in de reeks"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels">
+    <item msgid="4208432367651646938">"Alleen deze afspraak"</item>
+    <item msgid="1536401639805370405">"Deze en toekomstige afspraken"</item>
+    <item msgid="7833229563617435430">"Alle afspraken"</item>
+  </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+    <item msgid="1341910309321756150">"Deze en toekomstige afspraken"</item>
+    <item msgid="6315440193748139854">"Alle afspraken"</item>
+  </string-array>
+    <string-array name="ordinal_labels">
+    <item msgid="2693927956303125332">"eerste"</item>
+    <item msgid="5631923029483854900">"tweede"</item>
+    <item msgid="148935502975250973">"derde"</item>
+    <item msgid="5124200797326669172">"vierde"</item>
+    <item msgid="7564374178324652137">"laatste"</item>
+  </string-array>
+    <string-array name="preferences_default_reminder_labels">
+    <item msgid="7495163916242649023">"Geen"</item>
+    <item msgid="5883344836499335043">"0 minuten"</item>
+    <item msgid="4354350447805231188">"1 minuut"</item>
+    <item msgid="265674592625309858">"5 minuten"</item>
+    <item msgid="8011089417728419666">"10 minuten"</item>
+    <item msgid="6177098581805412986">"15 minuten"</item>
+    <item msgid="356346660503078923">"20 minuten"</item>
+    <item msgid="992592434377054063">"25 minuten"</item>
+    <item msgid="9191353668596201944">"30 minuten"</item>
+    <item msgid="1192985682962908244">"45 minuten"</item>
+    <item msgid="1694315499429259938">"1 uur"</item>
+    <item msgid="8281019320591769635">"2 uur"</item>
+    <item msgid="2062931719019287773">"3 uur"</item>
+    <item msgid="4086495711621133006">"12 uur"</item>
+    <item msgid="3172669681920709561">"24 uur"</item>
+    <item msgid="5557836606782821910">"2 dagen"</item>
+    <item msgid="8336577387266744930">"1 week"</item>
+  </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+    <item msgid="2285927842308686988">"Alleen indien geweigerd"</item>
+    <item msgid="6367412240524984286">"Indien geweigerd of niet gereageerd"</item>
+  </string-array>
+    <string-array name="preferences_week_start_day_labels">
+    <item msgid="986150274035512339">"Standaardlandinstelling"</item>
+    <item msgid="134027225275475280">"Zaterdag"</item>
+    <item msgid="95029346069903091">"Zondag"</item>
+    <item msgid="5840983116375063739">"Maandag"</item>
+  </string-array>
+    <string-array name="recurrence_freq">
+    <item msgid="3388478383574917007">"DAGELIJKS HERHALEN"</item>
+    <item msgid="6300824484048337842">"WEKELIJKS HERHALEN"</item>
+    <item msgid="189361731610816256">"MAANDELIJKS HERHALEN"</item>
+    <item msgid="8714177874112569158">"JAARLIJKS HERHALEN"</item>
+  </string-array>
+    <string-array name="reminder_methods_labels">
+    <item msgid="5172236776878811487">"Melding"</item>
+    <item msgid="1751151680520784746">"E-mail"</item>
+    <item msgid="2658001219380695677">"Sms"</item>
+    <item msgid="7926918288165444873">"Alarm"</item>
+  </string-array>
+    <string-array name="reminder_minutes_labels">
+    <item msgid="2416970002377237011">"0 minuten"</item>
+    <item msgid="6681865010714743948">"1 minuut"</item>
+    <item msgid="2327505114623595779">"5 minuten"</item>
+    <item msgid="1657410063332547113">"10 minuten"</item>
+    <item msgid="366087535181197780">"15 minuten"</item>
+    <item msgid="6252612791145061929">"20 minuten"</item>
+    <item msgid="7896694531989090700">"25 minuten"</item>
+    <item msgid="8754510169374808607">"30 minuten"</item>
+    <item msgid="3113380274218454394">"45 minuten"</item>
+    <item msgid="8546646645868526283">"1 uur"</item>
+    <item msgid="6467845211024768872">"2 uur"</item>
+    <item msgid="8201677619511076575">"3 uur"</item>
+    <item msgid="7172504281650128893">"12 uur"</item>
+    <item msgid="9114286702181482496">"24 uur"</item>
+    <item msgid="3107009344872997366">"2 dagen"</item>
+    <item msgid="6135563708172153696">"1 week"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_fri">
+    <item msgid="6534500380525126157">"op elke eerste vrijdag"</item>
+    <item msgid="1935608297230506940">"op elke tweede vrijdag"</item>
+    <item msgid="4061877662049317599">"op elke derde vrijdag"</item>
+    <item msgid="6856646749131820614">"op elke vierde vrijdag"</item>
+    <item msgid="6533513913914859794">"op elke laatste vrijdag"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_mon">
+    <item msgid="7539974918997689048">"op elke eerste maandag"</item>
+    <item msgid="4484275849072423978">"op elke tweede maandag"</item>
+    <item msgid="8956169860824371383">"op elke derde maandag"</item>
+    <item msgid="6924403357659569326">"op elke vierde maandag"</item>
+    <item msgid="1379608815263472161">"op elke laatste maandag"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sat">
+    <item msgid="3556369572649948699">"op elke eerste zaterdag"</item>
+    <item msgid="9130198690512925355">"op elke tweede zaterdag"</item>
+    <item msgid="4525736070844032405">"op elke derde zaterdag"</item>
+    <item msgid="422053689531707709">"op elke vierde zaterdag"</item>
+    <item msgid="5499975799312474425">"op elke laatste zaterdag"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_sun">
+    <item msgid="143841313172233420">"op elke eerste zondag"</item>
+    <item msgid="2557379346106451363">"op elke tweede zondag"</item>
+    <item msgid="7622144489915654132">"op elke derde zondag"</item>
+    <item msgid="527152448137686021">"op elke vierde zondag"</item>
+    <item msgid="5057483608824759350">"op elke laatste zondag"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_thurs">
+    <item msgid="920673677566009313">"op elke eerste donderdag"</item>
+    <item msgid="4857419136007543270">"op elke tweede donderdag"</item>
+    <item msgid="222044587450564839">"op elke derde donderdag"</item>
+    <item msgid="6197927556533030945">"op elke vierde donderdag"</item>
+    <item msgid="1023326923033436905">"op elke laatste donderdag"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_tues">
+    <item msgid="8690802834039790777">"op elke eerste dinsdag"</item>
+    <item msgid="9063613547307760928">"op elke tweede dinsdag"</item>
+    <item msgid="6688603328729208168">"op elke derde dinsdag"</item>
+    <item msgid="6695206006961533357">"op elke vierde dinsdag"</item>
+    <item msgid="8619069174889809914">"op elke laatste dinsdag"</item>
+  </string-array>
+    <string-array name="repeat_by_nth_wed">
+    <item msgid="3233850232075584386">"op elke eerste woensdag"</item>
+    <item msgid="5059722045367799217">"op elke tweede woensdag"</item>
+    <item msgid="7986246648229272275">"op elke derde woensdag"</item>
+    <item msgid="9068566169348980801">"op elke vierde woensdag"</item>
+    <item msgid="7976866743069062134">"op elke laatste woensdag"</item>
+  </string-array>
+    <string-array name="response_labels1">
+    <item msgid="5605392595848194997">"Geen reactie"</item>
+    <item msgid="3724434080904437698">"Ja"</item>
+    <item msgid="8854145743148992583">"Misschien"</item>
+    <item msgid="6174292185978948873">"Nee"</item>
+  </string-array>
+    <string-array name="visibility">
+    <item msgid="3035788428581513163">"Standaard"</item>
+    <item msgid="5200216103966973369">"Privé"</item>
+    <item msgid="9182342638433672664">"Openbaar"</item>
+  </string-array>
+    <plurals name="daily">
+        <item msgid="5169052946627480942" quantity="one">"Dagelijks"</item>
+        <item msgid="5455230727715859264" quantity="other">"Elke <ns1:g id="NUMBER">%d</ns1:g> dagen"</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item msgid="3727754565990691816" quantity="one">"; één keer"</item>
+        <item msgid="4855496837834652446" quantity="other">"; <ns1:g id="NUMBER">%d</ns1:g> keer"</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+    <item msgid="1400782968090516215" quantity="one">"Voor <ns1:g id="EVENT_COUNT">%d</ns1:g> evenement"</item>
+    <item msgid="8779598489398048259" quantity="other">"Voor <ns1:g id="EVENT_COUNT">%d</ns1:g> evenementen"</item>
+  </plurals>
+    <plurals name="recurrence_interval_daily">
+    <item msgid="1205422710088692631" quantity="one">"Elke <ns1:g id="COUNT">%d</ns1:g> dag"</item>
+    <item msgid="707566499994398250" quantity="other">"Elke <ns1:g id="COUNT">%d</ns1:g> dagen"</item>
+  </plurals>
+    <plurals name="recurrence_interval_monthly">
+    <item msgid="4768178401603139718" quantity="one">"Elke <ns1:g id="COUNT">%d</ns1:g> maand"</item>
+    <item msgid="5419723710346646523" quantity="other">"Elke <ns1:g id="COUNT">%d</ns1:g> maanden"</item>
+  </plurals>
+    <plurals name="recurrence_interval_weekly">
+    <item msgid="4948681635464488351" quantity="one">"Elke <ns1:g id="COUNT">%d</ns1:g> week"</item>
+    <item msgid="7094801039989237061" quantity="other">"Elke <ns1:g id="COUNT">%d</ns1:g> weken"</item>
+  </plurals>
+    <plurals name="recurrence_interval_yearly">
+    <item msgid="5819562634008179102" quantity="one">"Elk <ns1:g id="COUNT">%d</ns1:g> jaar"</item>
+    <item msgid="5678653649746562060" quantity="other">"Elke <ns1:g id="COUNT">%d</ns1:g> jaar"</item>
+  </plurals>
+    <plurals name="weekly">
+        <item msgid="5463021019301453273" quantity="one">"Wekelijks op <ns1:g id="DAYS_OF_WEEK">%2$s</ns1:g>"</item>
+        <item msgid="2857390143157377867" quantity="other">"Elke <ns1:g id="NUMBER">%1$d</ns1:g> weken op <ns1:g id="DAYS_OF_WEEK">%2$s</ns1:g>"</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gereed"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"UIT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AAN"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Delen met %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string msgid="5899029840837836711" name="acessibility_recurrence_choose_end_date_description">"einddatum wijzigen"</string>
+    <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> vereist een of meer Google Play-services die momenteel niet beschikbaar zijn. Neem contact op met de ontwikkelaar voor ondersteuning."</string>
+    <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Google Play-services inschak."</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> werkt niet, tenzij je Google Play-services inschakelt."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-services inschakelen"</string>
+    <string msgid="7118643132557593940" name="common_google_play_services_install_button">"Google Play-services ophalen"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die ontbreken op je telefoon."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die ontbreken op je tablet."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-services ophalen"</string>
+    <string msgid="479501935061677276" name="common_google_play_services_invalid_account_text">"Het gespecificeerde account bestaat niet op dit apparaat. Kies een ander account."</string>
+    <string msgid="5775407690646375078" name="common_google_play_services_invalid_account_title">"Ongeldig account"</string>
+    <string msgid="6857745590248226927" name="common_google_play_services_network_error_text">"Er is een gegevensverbinding nodig om verbinding te maken met Google Play-services."</string>
+    <string msgid="4183541461338112307" name="common_google_play_services_network_error_title">"Netwerkfout"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fout met Google Play-services"</string>
+    <string msgid="8897126254633757462" name="common_google_play_services_resolution_required_text">"Voltooi de actie die wordt vereist door <ns1:g id="APP_NAME">%1$s</ns1:g>."</string>
+    <string msgid="7524004365913123453" name="common_google_play_services_resolution_required_title">"Actie vereist voor Google Play-services"</string>
+    <string msgid="3111284987662714014" name="common_google_play_services_restricted_profile_text">"Toegang tot accounts uit een beperkt profiel wordt niet ondersteund."</string>
+    <string msgid="8137798410446890929" name="common_google_play_services_restricted_profile_title">"Beperkt profiel"</string>
+    <string msgid="2431909537598981235" name="common_google_play_services_sign_in_failed_text">"Fout bij inloggen op het opgegeven account. Kies een ander account."</string>
+    <string msgid="4402642931312190213" name="common_google_play_services_sign_in_failed_title">"Inloggen mislukt"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ondervindt problemen met Google Play-services. Als het probleem aanhoudt, neem je contact op met de ontwikkelaar voor ondersteuning."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> werkt met Google Play-services. Dit wordt niet ondersteund door je apparaat. Neem contact op met de fabrikant voor ondersteuning."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play-services"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Updaten"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd, tenzij je Google Play-services updatet."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-services updaten"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play-services worden geüpdatet"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Openen op telefoon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Inloggen"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Inloggen met Google"</string>
+    <string msgid="3968620852217927702" name="day_picker_description">"Maandraster van dagen"</string>
+    <string msgid="6908431551612331381" name="deleted_key">"<ns1:g id="KEY">%1$s</ns1:g> verwijderd"</string>
+    <string msgid="1834400025868091301" name="dismiss_all_label">"Allemaal verwijderen"</string>
+    <string msgid="1877681921029738999" name="does_not_repeat">"Eenmalige afspraak"</string>
+    <string msgid="7007948707597430919" name="done_label">"Gereed"</string>
+    <string msgid="4808253965057791781" name="email_picker_label">"E-mail met"</string>
+    <string msgid="7654221304929538201" name="endByDate">"; tot <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="5896574838353902978" name="every_weekday">"Elke werkdag (ma - vr)"</string>
+    <string msgid="7586639618712934060" name="hour_picker_description">"Ronde schuifregelaar voor uren"</string>
+    <string msgid="2674929164900463786" name="item_is_selected">"<ns1:g id="ITEM">%1$s</ns1:g> geselecteerd"</string>
+    <string msgid="6024811202872705251" name="minute_picker_description">"Ronde schuifregelaar voor minuten"</string>
+    <string msgid="4587116285383048586" name="monthly">"Maandelijks"</string>
+    <string msgid="5370155265278821156" name="monthly_on_day">"Maandelijks (op dag <ns1:g id="DAY_OF_MONTH">%s</ns1:g>)"</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Zoekopdracht wissen"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Zoeken"</string>
+    <string msgid="8093909645557717483" name="recurrence_dialog_title">"Herhalen"</string>
+    <string msgid="2679396029776590130" name="recurrence_dialog_title_never">"Wordt nooit herhaald"</string>
+    <string msgid="6898950241634912991" name="recurrence_end_continously">"Voor altijd"</string>
+    <string msgid="1233883668293087977" name="recurrence_end_count_label">"Voor een aantal evenementen"</string>
+    <string msgid="3693751578164711701" name="recurrence_end_date">"Tot <ns1:g id="DATE">%s</ns1:g>"</string>
+    <string msgid="4142791438636994952" name="recurrence_end_date_label">"Tot een datum"</string>
+    <string msgid="4400107556121003459" name="recurrence_month_pattern_by_day">"elke maand op dezelfde dag"</string>
+    <string msgid="2133599104834432589" name="save_label">"Gereed"</string>
+    <string msgid="3973338219107019769" name="select_day">"Maand en dag selecteren"</string>
+    <string msgid="7651068754188418859" name="select_hours">"Uren selecteren"</string>
+    <string msgid="8327182090226828481" name="select_minutes">"Minuten selecteren"</string>
+    <string msgid="2603330600102539372" name="select_year">"Jaar selecteren"</string>
+    <string msgid="4994488813124409077" name="snooze_all_label">"5 min. uitstellen"</string>
+    <string msgid="1515893621063224666" name="snooze_label">"Snooze"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="6963340404644587098" name="year_picker_description">"Jaarlijst"</string>
+    <string msgid="8576208380302949002" name="yearly">"Jaarlijks (op <ns1:g id="DATES">%s</ns1:g>)"</string>
+    <string msgid="3652692085322162449" name="yearly_plain">"Jaarlijks"</string>
+</resources>
